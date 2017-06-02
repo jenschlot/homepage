@@ -1,0 +1,55 @@
+{
+  "id": "docs_homepage_services",
+  "title": "Bluemix サービスの使用法",
+  "subtitle": "サービス・タイプと可用性についての詳細",
+  "subtitleHref": "services/index.html",
+  "items": [{
+    "id": "cfApp",
+    "title": "Cloud Foundry アプリケーション",
+    "href": "cfapps/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "ランタイム",
+    "href": "cfapps/runtimes.html",
+    "category_id": "compute"
+  }, {
+    "title": "ボイラープレート",
+    "href": "cfapps/boilerplates.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM OpenWhisk",
+    "href": "openwhisk/index.html",
+    "category_id": "compute"
+  }, {
+    "id": "container",
+    "title": "IBM Containers",
+    "href": "containers/container_index.html",
+    "category_id": "compute"
+  }, {
+    "id": "vm",
+    "title": "IBM Virtual Servers",
+    "href": "virtualmachines/vm_index.html",
+    "category_id": "compute"
+  }, {
+    "type": "extra",
+    "title": "データの処理の試行",
+    "href": "services/WorkWithData/index.html",
+    "category_id": "data"
+  }, {
+    "type": "extra",
+    "title": "ツールチェーンの試行",
+    "href": "toolchains/toolchains_overview.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Dedicated GitHub Enterprise の試行",
+    "href": "services/ghededicated/index.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Bluemix Mobile ダッシュボードの試行",
+    "href": "mobile/index.html",
+    "category_id": "mobile"
+  }]
+}
+
