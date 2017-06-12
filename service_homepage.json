@@ -28,29 +28,11 @@
     "href": "containers/container_index.html",
     "category_id": "compute"
   }, {
-    "title": "IBM Bluemix Container Registry",
-    "img": "homepage/images/registry_icon.svg",
-    "href": "services/Registry/index.html",
-    "category_id": "compute"
-  },{
     "title": "IBM Cloud Schematics",
     "img": "homepage/images/schematics_icon.svg",
     "href": "services/schematics/index.html",
     "category_id": "compute"
-  }, {
-    "title": "IBM Cloud for VMware Solutions",
-    "img": "homepage/images/vmware_icon.png",
-    "href": "services/vmwaresolutions/index.html",
-    "category_id": "compute"
   },{
-    "title": "Virtual Servers (test)",
-    "href": "vsi/vsi_index.html",
-    "category_id": "compute"
-  }, {
-    "title": "Genesis",
-    "href": "genesis/index.html",
-    "category_id": "compute"
-  }, {
     "title": "Analytics for Apache Spark Starter",
     "img": "homepage/images/Bluemix-logo.svg",
     "href": "starters/AnalyticsApacheSpark/index.html",
@@ -63,12 +45,12 @@
   }, {
     "title": "Watson IoT Platform Starter",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IoT-starter/iot500.html",
+    "href": "starters/IoT/iot500.html",
     "category_id": "boilerplate"
   }, {
     "title": "IoT for Electronics Starter",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
+    "href": "starters/IotElectronics/iot4egettingstarted.html",
     "category_id": "boilerplate"
   }, {
     "title": "Java Cloudant Web Starter",
@@ -112,26 +94,6 @@
     "category_id": "boilerplate"
   }, {
     "type": "extra",
-    "title": "File Storage (test)",
-    "href": "infrastructure/FileStorage/index.html",
-    "category_id": "storage"
-  },{
-    "type": "extra",
-    "title": "Block Storage (test)",
-    "href": "infrastructure/BlockStorage/index.html",
-    "category_id": "storage"
-  },{
-    "type": "extra",
-    "title": "Backup (test)",
-    "href": "infrastructure/Backup/index.html",
-    "category_id": "storage"
-  },{
-    "type": "extra",
-    "title": "Data Transfer Service (test)",
-    "href": "infrastructure/DataTransferService/index.html",
-    "category_id": "storage"
-  },{
-    "type": "extra",
     "title": "Working with data",
     "href": "services/WorkWithData/index.html",
     "category_id": "data"
@@ -139,7 +101,6 @@
     "type": "extra",
     "title": "Working with Toolchains",
     "href": "services/ContinuousDelivery/toolchains_working.html",
-    "img": "homepage/images/toolchains_icon.svg",
     "category_id": "devops"
   },{
     "type": "extra",
