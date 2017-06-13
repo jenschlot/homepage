@@ -45,12 +45,12 @@
   }, {
     "title": "Watson IoT Platform Starter",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IoT/iot500.html",
+    "href": "starters/IoT-starter/iot500.html",
     "category_id": "boilerplate"
   }, {
     "title": "IoT for Electronics Starter",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IotElectronics/iot4egettingstarted.html",
+    "href": "starters/IotElectronics-starter/iot4egettingstarted.html",
     "category_id": "boilerplate"
   }, {
     "title": "Java Cloudant Web Starter",
