@@ -28,6 +28,11 @@
     "href": "containers/container_index.html",
     "category_id": "compute"
   }, {
+    "title": "IBM Bluemix Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry/index.html",
+    "category_id": "compute"
+  },{
     "title": "IBM Cloud Schematics",
     "img": "homepage/images/schematics_icon.svg",
     "href": "services/schematics/index.html",
