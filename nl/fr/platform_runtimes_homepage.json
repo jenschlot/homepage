@@ -54,13 +54,13 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/whatisbluemix.html"
     }, {
-		"title": " Gestion de votre compte ",
+		"title": " Gestion de votre compte",
 		"description": "Mettez à jour votre profil, définissez des notifications relatives à votre compte et à vos dépenses, ou gérez des organisations et des espaces.",
 		"img": "homepage/images/admin.svg",
 		"href": "admin/adminpublic.html"
 	}, {
-		"title": " Gestion de l'identité et de l'accès ",
-		"description": "Gérez l'accès utilisateur ou invitez des membres d'équipe. ",
+		"title": " Gestion de l'identité et de l'accès",
+		"description": "Gérez l'accès utilisateur ou invitez des membres d'équipe.",
 		"img": "homepage/images/admin.svg",
 		"href": "iam/iamusermanage.html"
 	}, {
