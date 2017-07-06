@@ -55,7 +55,7 @@
   }, {
     "title": "IoT for Electronics Starter",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IotElectronics-starter/iot4egettingstarted.html",
+    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
     "category_id": "boilerplate"
   }, {
     "title": "Java Cloudant Web Starter",
