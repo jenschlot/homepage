@@ -38,6 +38,11 @@
     "href": "services/schematics/index.html",
     "category_id": "compute"
   },{
+    "title": "IBM Cloud for VMware Solutions",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions/index.html",
+    "category_id": "compute"
+  },{
     "title": "Analytics for Apache Spark Starter",
     "img": "homepage/images/Bluemix-logo.svg",
     "href": "starters/AnalyticsApacheSpark/index.html",
