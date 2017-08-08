@@ -28,9 +28,19 @@
     "href": "containers/container_index.html",
     "category_id": "compute"
   }, {
+    "title": "IBM Bluemix Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry/index.html",
+    "category_id": "compute"
+  },{
     "title": "IBM Cloud Schematics",
     "img": "homepage/images/schematics_icon.svg",
     "href": "services/schematics/index.html",
+    "category_id": "compute"
+  },{
+    "title": "VMware용 IBM 클라우드 솔루션",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions/index.html",
     "category_id": "compute"
   },{
     "title": "Analytics for Apache Spark 스타터",
@@ -45,12 +55,12 @@
   }, {
     "title": "Watson IoT Platform 스타터",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IoT/iot500.html",
+    "href": "starters/IoT-starter/iot500.html",
     "category_id": "boilerplate"
   }, {
     "title": "IoT for Electronics 스타터",
     "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/IotElectronics/iot4egettingstarted.html",
+    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
     "category_id": "boilerplate"
   }, {
     "title": "Java Cloudant 웹 스타터",
@@ -119,6 +129,4 @@
     "category_id": "mobile"
   }]
 }
-
-
 
