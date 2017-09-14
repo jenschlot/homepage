@@ -127,6 +127,11 @@
     "title": "モバイル・クライアント・アクセスの処理",
     "href": "services/mobileaccess/index.html",
     "category_id": "モバイル"
+  }, {
+    "type": "extra",
+    "title": "セキュリティー・グループ (ベータ)",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "セキュリティー"
   }]
 }
 

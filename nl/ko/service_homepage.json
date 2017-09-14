@@ -127,6 +127,11 @@
     "title": "Mobile Client Access 작업",
     "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "보안 그룹(베타)",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "security"
   }]
 }
 

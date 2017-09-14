@@ -127,6 +127,11 @@
     "title": "Trabalhando com o Mobile Client Access",
     "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Grupos de segurança (beta)",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "security"
   }]
 }
 
