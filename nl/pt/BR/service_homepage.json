@@ -17,7 +17,7 @@
     "category_id": "compute"
   }, {
     "id": "whisk-rt",
-    "title": "IBM OpenWhisk",
+    "title": "IBM Cloud Functions",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "compute"
@@ -134,4 +134,6 @@
     "category_id": "security"
   }]
 }
+
+
 

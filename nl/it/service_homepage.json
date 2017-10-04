@@ -17,7 +17,7 @@
     "category_id": "calcola"
   }, {
     "id": "whisk-rt",
-    "title": "IBM OpenWhisk",
+    "title": "Funzioni di IBM Cloud",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "calcola"
@@ -134,4 +134,6 @@
     "category_id": "sicurezza"
   }]
 }
+
+
 
