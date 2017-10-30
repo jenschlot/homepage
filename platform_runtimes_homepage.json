@@ -118,6 +118,11 @@
 		"description": "What's new in Bluemix?",
 		"href": "whatsnew/index.html"
 	}, {
+		"title": "Tutorials",
+		"description": "Tutorials, architecture guides and additional resources to help you build on Cloud Platform",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
+	}, {
 		"title": "Architecture Center",
 		"description": "Browse our architectures to help determine the best fit for your cloud apps.",
 		"img": "homepage/images/architectures.svg",
