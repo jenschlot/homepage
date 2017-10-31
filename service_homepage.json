@@ -48,11 +48,6 @@
     "href": "starters/AnalyticsApacheSpark/index.html",
     "category_id": "boilerplate"
   }, {
-    "title": "Conversational Agent Starter",
-    "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/ConversationalAgentStarter/index.html",
-    "category_id": "boilerplate"
-  }, {
     "title": "Watson IoT Platform Starter",
     "img": "homepage/images/Bluemix-logo.svg",
     "href": "starters/IoT-starter/iot500.html",
