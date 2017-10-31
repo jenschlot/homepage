@@ -47,9 +47,9 @@
     
     }, {
     "id": "docs_homepage_platform",
-    "title": "Bluemix Platform",
+    "title": "IBM Cloud",
     "items": [{
-	    	"title": "What is Bluemix?",
+	    	"title": "What is IBM Cloud?",
 		"description": "A new way to experience cloud, combining infrastructure, applications, and services.",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/whatisbluemix.html"
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "Managing Apps",
-		"description": "Use the dashboard in the Bluemix user interface to view and manage your apps and services.",
+		"description": "Use the dashboard in the IBM Cloud user interface to view and manage your apps and services.",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,8 +86,8 @@
 		"title": "Managing APIs",
 		"href": "apis/management/index.html"
 	}, {
-		"title": "Bluemix Security",
-		"description": "Learn how Bluemix provides functional, infrastructure, operational, and physical security.",
+		"title": "IBM Cloud Security",
+		"description": "Learn how IBM Cloud provides functional, infrastructure, operational, and physical security.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
 	}, {
@@ -111,11 +111,11 @@
 		"href": "navigation/notices.html"
 	}, {
 		"title": "Glossary",
-		"description": "Glossary terms for Bluemix.",
+		"description": "Glossary terms for IBM Cloud.",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "What's New?",
-		"description": "What's new in Bluemix?",
+		"description": "What's new in IBM Cloud?",
 		"href": "whatsnew/index.html"
 	}, {
 		"title": "Tutorials",
