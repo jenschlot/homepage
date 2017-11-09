@@ -129,7 +129,7 @@
     "category_id": "mobile"
   }, {
     "type": "extra",
-    "title": "Grupos de seguridad (Beta)",
+    "title": "Grupos de seguridad",
     "href": "infrastructure/security-groups/sg_index.html",
     "category_id": "security"
   }]

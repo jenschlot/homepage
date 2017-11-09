@@ -129,7 +129,7 @@
     "category_id": "mobile"
   }, {
     "type": "extra",
-    "title": "安全组 (Beta)",
+    "title": "安全组",
     "href": "infrastructure/security-groups/sg_index.html",
     "category_id": "security"
   }]

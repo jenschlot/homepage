@@ -129,7 +129,7 @@
     "category_id": "mobile"
   }, {
     "type": "extra",
-    "title": "보안 그룹(베타)",
+    "title": "보안 그룹",
     "href": "infrastructure/security-groups/sg_index.html",
     "category_id": "security"
   }]
