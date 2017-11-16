@@ -52,7 +52,7 @@
 	    	"title": "What is IBM Cloud?",
 		"description": "A new way to experience cloud, combining infrastructure, applications, and services.",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
-		"href": "overview/whatisbluemix.html"
+		"href": "overview/ibm-cloud.html"
     }, {
 		"title": " Managing Your Account",
 		"description": "Update your profile, set account and spending notifications, or manage orgs and spaces.",
