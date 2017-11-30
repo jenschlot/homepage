@@ -16,13 +16,11 @@
     "href": "cfapps/index.html",
     "category_id": "compute"
   }, {
-    "id": "whisk",
     "title": "IBM Cloud Functions",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "compute"
   }, {
-    "id": "Containers",
     "title": "IBM Cloud Container Service",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
