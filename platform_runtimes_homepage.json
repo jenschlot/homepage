@@ -53,7 +53,7 @@
 		"description": "A new way to experience cloud, combining infrastructure, applications, and services.",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
-    }, {
+        }, {
 		"title": " Managing Your Account",
 		"description": "Update your profile, set account and spending notifications, or manage orgs and spaces.",
 		"img": "homepage/images/admin.svg",
@@ -62,8 +62,8 @@
 		"title": " Managing Identity and Access",
 		"description": "Manage user access or invite team members.",
 		"img": "homepage/images/admin.svg",
-		"href": "iam/iamusermanage.html"
-	}, {
+		"href": "iam/quickstart.html"
+	},{
 		"title": "CLI and Dev Tools",
 		"description": "Access tools, such as a unified command line interface and CLI plug-ins.",
 		"img": "homepage/images/cli.svg",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "Managing Apps",
-		"description": "Use the dashboard in the IBM Cloud user interface to view and manage your apps and services.",
+		"description": "Use the dashboard in the Bluemix user interface to view and manage your apps and services.",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,6 +86,20 @@
 		"title": "Managing APIs",
 		"href": "apis/management/index.html"
 	}, {
+		"title": "Managing Billing and Usage",
+		"description": "Estimate costs with the calculator and see actual costs with the usage details view.",
+		"img": "homepage/images/pricing.svg",
+		"href": "pricing/index.html"
+	}, {
+		"title": "Managing Infrastructure Resources",
+		"description": "Use the customer portal to work with your infrastructure assets.",
+		"href": "customer-portal/getting-started.html"
+	}, {
+		"title": "Troubleshooting",
+		"description": "If you experience problems with the platform, use these troubleshooting tasks to determine what steps to take.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "troubleshoot/troubleshoot.html"
+	}, {
 		"title": "IBM Cloud Security",
 		"description": "Learn how IBM Cloud provides functional, infrastructure, operational, and physical security.",
 		"img": "homepage/images/platform_security.svg",
@@ -96,29 +110,19 @@
 		"img": "homepage/images/hybrid.svg",
 		"href": "hybrid/index.html"
 	}, {
-		"title": "Managing Billing and Usage",
-		"description": "Estimate costs with the calculator and see actual costs with the usage details view.",
-		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "Troubleshooting",
-		"description": "If you experience problems with the platform, use these troubleshooting tasks to determine what steps to take.",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
-	}, {
 		"title": "Notices and Terms of Use",
 		"description": "Legal notices and terms of use.",
 		"href": "navigation/notices.html"
 	}, {
 		"title": "Glossary",
-		"description": "Glossary terms for IBM Cloud.",
+		"description": "Glossary terms for Bluemix.",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "What's New?",
-		"description": "What's new in IBM Cloud?",
+		"description": "What's new in Bluemix?",
 		"href": "whatsnew/index.html"
 	}, {
-		"title": "Tutorials",
+		"title": "Solution Tutorials",
 		"description": "Tutorials, architecture guides and additional resources to help you build on Cloud Platform",
 		"img": "homepage/images/architectures.svg",
 		"href": "tutorials/index.html"
