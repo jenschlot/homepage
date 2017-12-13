@@ -47,12 +47,12 @@
     
     }, {
     "id": "docs_homepage_platform",
-    "title": "Bluemix 平台",
+    "title": "IBM Cloud",
     "items": [{
-	    	"title": "什麼是 Bluemix？",
+	    	"title": "何謂 IBM Cloud？",
 		"description": "結合基礎架構、應用程式及服務，以體驗雲端的新方式。",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
-		"href": "overview/whatisbluemix.html"
+		"href": "overview/ibm-cloud.html"
     }, {
 		"title": " 管理帳戶",
 		"description": "更新設定檔、設定帳戶和消費通知，或者管理組織和空間。",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "管理應用程式",
-		"description": "使用 Bluemix 使用者介面中的儀表板來檢視及管理應用程式與服務。",
+		"description": "使用 IBM Cloud 使用者介面中的儀表板來檢視及管理應用程式與服務。",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,8 +86,8 @@
 		"title": "管理 API",
 		"href": "apis/management/index.html"
 	}, {
-		"title": "Bluemix 安全",
-		"description": "瞭解 Bluemix 如何提供功能安全、基礎架構安全、作業安全及實體安全。",
+		"title": "IBM Cloud 安全",
+		"description": "瞭解 IBM Cloud 如何提供功能安全、基礎架構安全、作業安全及實體安全。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
 	}, {
@@ -111,12 +111,17 @@
 		"href": "navigation/notices.html"
 	}, {
 		"title": "名詞解釋",
-		"description": "Bluemix 的名詞解釋。",
+		"description": "IBM Cloud 的名詞解釋。",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "新增功能",
-		"description": "Bluemix 的新增功能？",
+		"description": "IBM Cloud 的新增功能？",
 		"href": "whatsnew/index.html"
+	}, {
+		"title": "指導教學",
+		"description": "指導教學、架構手冊及其他資源，可協助您以 Cloud Platform 為建置基礎",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
 	}, {
 		"title": "架構中心",
 		"description": "瀏覽我們的架構，以協助判斷最適合雲端應用程式的架構。",

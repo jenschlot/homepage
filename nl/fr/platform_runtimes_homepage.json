@@ -47,12 +47,12 @@
     
     }, {
     "id": "docs_homepage_platform",
-    "title": "Plateforme Bluemix",
+    "title": "IBM Cloud",
     "items": [{
-	    	"title": "Qu'est-ce que Bluemix ?",
+	    	"title": "Qu'est-ce qu'IBM Cloud ?",
 		"description": "Une nouvelle façon d'expérimenter le cloud en combinant une infrastructure, des applications et des services.",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
-		"href": "overview/whatisbluemix.html"
+		"href": "overview/ibm-cloud.html"
     }, {
 		"title": " Gestion de votre compte",
 		"description": "Mettez à jour votre profil, définissez des notifications relatives à votre compte et à vos dépenses, ou gérez des organisations et des espaces.",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "Gestion des applications",
-		"description": "Utilisez le tableau de bord dans l'interface utilisateur Bluemix pour afficher et gérer vos applications et vos services.",
+		"description": "Utilisez le tableau de bord dans l'interface utilisateur IBM Cloud pour afficher et gérer vos applications et vos services.",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,8 +86,8 @@
 		"title": "Gestion des API",
 		"href": "apis/management/index.html"
 	}, {
-		"title": "Sécurité Bluemix",
-		"description": "Découvrez comment Bluemix assure une sécurité fonctionnelle, d'infrastructure, opérationnelle et physique.",
+		"title": "Sécurité IBM Cloud",
+		"description": "Découvrez comment IBM Cloud assure une sécurité fonctionnelle, d'infrastructure, opérationnelle et physique.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
 	}, {
@@ -111,12 +111,17 @@
 		"href": "navigation/notices.html"
 	}, {
 		"title": "Glossaire",
-		"description": "Termes de glossaire relatifs à Bluemix.",
+		"description": "Glossaire des termes IBM Cloud.",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "Nouveautés",
-		"description": "Présentation des nouveautés de Bluemix",
+		"description": "Nouveautés d'IBM Cloud",
 		"href": "whatsnew/index.html"
+	}, {
+		"title": "Tutoriels",
+		"description": "Des tutoriels, des guides d'architecture et d'autres ressources vous aident à construire sur un plateforme cloud",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
 	}, {
 		"title": "Architecture Center",
 		"description": "Parcourez nos architectures pour déterminer ce qui convient le mieux à vos applications en cloud.",

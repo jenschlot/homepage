@@ -47,12 +47,12 @@
     
     }, {
     "id": "docs_homepage_platform",
-    "title": "Bluemix Platform",
+    "title": "IBM Cloud",
     "items": [{
-	    	"title": "Bluemix 是什么？",
+	    	"title": "什么是 IBM Cloud？",
 		"description": "这是一种集基础架构、应用程序和服务于一体的全新的云体验方法。",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
-		"href": "overview/whatisbluemix.html"
+		"href": "overview/ibm-cloud.html"
     }, {
 		"title": " 管理帐户",
 		"description": "更新个人档案，设置帐户和花费通知或管理组织和空间。",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "管理应用程序",
-		"description": "使用 Bluemix 用户界面中的“仪表板”可查看和管理应用程序和服务。",
+		"description": "使用 IBM Cloud 用户界面中的“仪表板”可查看和管理应用程序和服务。",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,8 +86,8 @@
 		"title": "管理 API",
 		"href": "apis/management/index.html"
 	}, {
-		"title": "Bluemix 安全性",
-		"description": "了解 Bluemix 如何提供功能性、基础架构、操作和物理安全。",
+		"title": "IBM Cloud 安全性",
+		"description": "了解 IBM Cloud 如何提供功能性、基础架构、操作和物理安全性。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
 	}, {
@@ -111,12 +111,17 @@
 		"href": "navigation/notices.html"
 	}, {
 		"title": "词汇表",
-		"description": "Bluemix 的词汇表术语。",
+		"description": "IBM Cloud 的词汇表术语。",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "新增功能",
-		"description": "Bluemix 中的新增功能",
+		"description": "IBM Cloud 中的新增功能",
 		"href": "whatsnew/index.html"
+	}, {
+		"title": "教程",
+		"description": "用于帮助您构建云平台的教程、体系结构指南和其他资源",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
 	}, {
 		"title": "Architecture Center",
 		"description": "浏览体系结构可帮助确定您的云应用程序的最佳匹配。",

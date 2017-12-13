@@ -23,12 +23,12 @@
     "category_id": "compute"
   }, {
     "id": "container",
-    "title": "Service IBM Bluemix Container",
+    "title": "Service IBM Cloud Container",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
     "category_id": "compute"
   }, {
-    "title": "IBM Bluemix Container Registry",
+    "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
     "category_id": "compute"
@@ -46,11 +46,6 @@
     "title": "Analytics for Apache Spark Starter",
     "img": "homepage/images/Bluemix-logo.svg",
     "href": "starters/AnalyticsApacheSpark/index.html",
-    "category_id": "conteneur boilerplate"
-  }, {
-    "title": "Conversational Agent Starter",
-    "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/ConversationalAgentStarter/index.html",
     "category_id": "conteneur boilerplate"
   }, {
     "title": "Watson IoT Platform Starter",

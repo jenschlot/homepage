@@ -47,12 +47,12 @@
     
     }, {
     "id": "docs_homepage_platform",
-    "title": "Bluemix Platform",
+    "title": "IBM Cloud",
     "items": [{
-	    	"title": "O que é Bluemix?",
+	    	"title": "O que é IBM Cloud?",
 		"description": "Uma nova maneira de usar a nuvem, combinando infraestrutura, aplicativos e serviços.",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
-		"href": "overview/whatisbluemix.html"
+		"href": "overview/ibm-cloud.html"
     }, {
 		"title": " Gerenciando sua conta",
 		"description": "Atualize seu perfil, configure as notificações de conta e gastos ou gerencie organizações e espaços.",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "Gerenciando apps",
-		"description": "Use o painel na interface com o usuário do Bluemix para visualizar e gerenciar seus aplicativos e serviços.",
+		"description": "Use o painel na interface com o usuário do IBM Cloud para visualizar e gerenciar seus apps e serviços.",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,8 +86,8 @@
 		"title": "Gerenciando APIs",
 		"href": "apis/management/index.html"
 	}, {
-		"title": "Segurança do Bluemix",
-		"description": "Aprenda com o Bluemix fornece segurança funcional, de infraestrutura, operacional e física.",
+		"title": "Segurança do IBM Cloud",
+		"description": "Saiba como o IBM Cloud fornece segurança funcional, operacional, física e de infraestrutura.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
 	}, {
@@ -111,12 +111,17 @@
 		"href": "navigation/notices.html"
 	}, {
 		"title": "Glossário",
-		"description": "Termos do glossário para o Bluemix.",
+		"description": "Termos do glossário para o IBM Cloud.",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "O que Há de Novo?",
-		"description": "O que há de novo no Bluemix?",
+		"description": "O que há de novo no IBM Cloud?",
 		"href": "whatsnew/index.html"
+	}, {
+		"title": "Tutorials (Tutoriais)",
+		"description": "Tutoriais, guias de arquitetura e recursos adicionais para ajudá-lo a construir no Cloud Platform",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
 	}, {
 		"title": "Architecture Center",
 		"description": "Procure em nossas arquiteturas para ajudar a determinar o mais adequado para seus apps em nuvem.",
