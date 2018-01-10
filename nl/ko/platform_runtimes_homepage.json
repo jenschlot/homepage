@@ -53,17 +53,17 @@
 		"description": "클라우드, 결합 인프라, 애플리케이션 및 서비스를 경험하는 새로운 방법",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
-    }, {
+        }, {
 		"title": " 계정 관리",
 		"description": "프로파일을 업데이트하고, 계정 및 지출 알림을 설정하거나, 조직 및 영역을 관리합니다. ",
 		"img": "homepage/images/admin.svg",
 		"href": "admin/adminpublic.html"
 	}, {
-		"title": " ID 및 액세스 관리",
+		"title": " Identity and Access Management",
 		"description": "사용자 액세스를 관리하거나 팀 구성원을 초대합니다. ",
 		"img": "homepage/images/admin.svg",
 		"href": "iam/iamusermanage.html"
-	}, {
+	},{
 		"title": "CLI 및 개발 도구",
 		"description": "액세스 도구(예: 통합 명령행 인터페이스 및 CLI 플러그인)입니다.",
 		"img": "homepage/images/cli.svg",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "앱 관리",
-		"description": "IBM Cloud 사용자 인터페이스의 대시보드를 사용하여 앱과 서비스를 보고 관리할 수 있습니다. ",
+		"description": "Bluemix 사용자 인터페이스의 대시보드를 사용하여 앱과 서비스를 보고 관리할 수 있습니다.",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,6 +86,20 @@
 		"title": "API 관리",
 		"href": "apis/management/index.html"
 	}, {
+		"title": "청구 및 사용량 관리",
+		"description": "계산기를 사용하여 비용을 추정하고 사용량 세부사항 보기를 통해 실제 비용을 확인합니다.",
+		"img": "homepage/images/pricing.svg",
+		"href": "pricing/index.html"
+	}, {
+		"title": "인프라 리소스 관리",
+		"description": "인프라 자산에 대한 작업을 수행하려면 고객 포털을 사용하십시오.",
+		"href": "customer-portal/getting-started.html"
+	}, {
+		"title": "문제점 해결",
+		"description": "플랫폼에서 문제점이 발생하는 경우 이 문제점 해결 태스크를 이용하여 무엇을 수행해야 하는지 파악할 수 있습니다.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "troubleshoot/troubleshoot.html"
+	}, {
 		"title": "IBM Cloud 보안",
 		"description": "IBM Cloud가 기능, 인프라, 운영 및 실제 보안을 제공하는 방법에 대해 알아봅니다. ",
 		"img": "homepage/images/platform_security.svg",
@@ -96,29 +110,19 @@
 		"img": "homepage/images/hybrid.svg",
 		"href": "hybrid/index.html"
 	}, {
-		"title": "청구 및 사용량 관리",
-		"description": "계산기를 사용하여 비용을 추정하고 사용량 세부사항 보기를 통해 실제 비용을 확인합니다.",
-		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "문제점 해결",
-		"description": "플랫폼에서 문제점이 발생하는 경우 이 문제점 해결 태스크를 이용하여 무엇을 수행해야 하는지 파악할 수 있습니다.",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
-	}, {
 		"title": "주의사항 및 이용 약관",
 		"description": "법적 주의사항 및 이용 약관입니다.",
 		"href": "navigation/notices.html"
 	}, {
 		"title": "용어집",
-		"description": "IBM Cloud에 대한 용어집의 용어입니다. ",
+		"description": "Bluemix에 대한 용어집입니다.",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "새로운 기능",
-		"description": "IBM Cloud의 새로운 기능",
+		"description": "Bluemix의 새로운 기능",
 		"href": "whatsnew/index.html"
 	}, {
-		"title": "튜토리얼",
+		"title": "솔루션 튜토리얼",
 		"description": "클라우드 플랫폼에서 빌드하는 데 도움이 되는 튜토리얼, 아키텍처 안내서 및 추가 리소스",
 		"img": "homepage/images/architectures.svg",
 		"href": "tutorials/index.html"
