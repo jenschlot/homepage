@@ -62,7 +62,7 @@
 		"title": " Managing Identity and Access",
 		"description": "Manage user access or invite team members.",
 		"img": "homepage/images/admin.svg",
-		"href": "iam/iamusermanage.html"
+		"href": "iam/quickstart.html"
 	},{
 		"title": "CLI and Dev Tools",
 		"description": "Access tools, such as a unified command line interface and CLI plug-ins.",
