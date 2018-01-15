@@ -16,13 +16,11 @@
     "href": "cfapps/index.html",
     "category_id": "compute"
   }, {
-    "id": "whisk-rt",
     "title": "IBM Cloud 函數",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "compute"
   }, {
-    "id": "container",
     "title": "IBM Cloud Container Service",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
@@ -43,11 +41,6 @@
     "href": "services/vmwaresolutions/index.html",
     "category_id": "compute"
   },{
-    "title": "Analytics for Apache Spark Starter",
-    "img": "homepage/images/Bluemix-logo.svg",
-    "href": "starters/AnalyticsApacheSpark/index.html",
-    "category_id": "boilerplate"
-  }, {
     "title": "Watson IoT Platform Starter",
     "img": "homepage/images/Bluemix-logo.svg",
     "href": "starters/IoT-starter/iot500.html",

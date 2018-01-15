@@ -53,7 +53,7 @@
 		"description": "結合基礎架構、應用程式及服務，以體驗雲端的新方式。",
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
-    }, {
+        }, {
 		"title": " 管理帳戶",
 		"description": "更新設定檔、設定帳戶和消費通知，或者管理組織和空間。",
 		"img": "homepage/images/admin.svg",
@@ -63,7 +63,7 @@
 		"description": "管理使用者存取或邀請團隊成員。",
 		"img": "homepage/images/admin.svg",
 		"href": "iam/iamusermanage.html"
-	}, {
+	},{
 		"title": "CLI 及開發工具",
 		"description": "存取工具，例如統一指令行介面和 CLI 外掛程式。",
 		"img": "homepage/images/cli.svg",
@@ -74,7 +74,7 @@
 		"href": "services/services_region.html"
 	}, {
 		"title": "管理應用程式",
-		"description": "使用 IBM Cloud 使用者介面中的儀表板來檢視及管理應用程式與服務。",
+		"description": "使用 Bluemix 使用者介面中的儀表板來檢視及管理應用程式與服務。",
 		"img": "homepage/images/manage_apps.svg",
 		"href": "manageapps/mngapps.html"
 	}, {
@@ -86,6 +86,20 @@
 		"title": "管理 API",
 		"href": "apis/management/index.html"
 	}, {
+		"title": "管理計費及用量",
+		"description": "利用計算機來預估成本，以及利用「用量詳細資料」視圖來查看實際成本。",
+		"img": "homepage/images/pricing.svg",
+		"href": "pricing/index.html"
+	}, {
+		"title": "管理基礎架構資源",
+		"description": "使用客戶入口網站來處理基礎架構資產。",
+		"href": "customer-portal/getting-started.html"
+	}, {
+		"title": "疑難排解",
+		"description": "如果您遇到平台問題，請使用這些疑難排解作業來判定要採取的步驟。",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "troubleshoot/troubleshoot.html"
+	}, {
 		"title": "IBM Cloud 安全",
 		"description": "瞭解 IBM Cloud 如何提供功能安全、基礎架構安全、作業安全及實體安全。",
 		"img": "homepage/images/platform_security.svg",
@@ -96,29 +110,19 @@
 		"img": "homepage/images/hybrid.svg",
 		"href": "hybrid/index.html"
 	}, {
-		"title": "管理計費及用量",
-		"description": "利用計算機來預估成本，以及利用「用量詳細資料」視圖來查看實際成本。",
-		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "疑難排解",
-		"description": "如果您遇到平台問題，請使用這些疑難排解作業來判定要採取的步驟。",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
-	}, {
 		"title": "注意事項及使用條款",
 		"description": "法律聲明及使用條款。",
 		"href": "navigation/notices.html"
 	}, {
 		"title": "名詞解釋",
-		"description": "IBM Cloud 的名詞解釋。",
+		"description": "Bluemix 的名詞解釋。",
 		"href": "overview/glossary/index.html"
 	}, {
 		"title": "新增功能",
-		"description": "IBM Cloud 的新增功能？",
+		"description": "Bluemix 的新增功能？",
 		"href": "whatsnew/index.html"
 	}, {
-		"title": "指導教學",
+		"title": "解決方案指導教學",
 		"description": "指導教學、架構手冊及其他資源，可協助您以 Cloud Platform 為建置基礎",
 		"img": "homepage/images/architectures.svg",
 		"href": "tutorials/index.html"
