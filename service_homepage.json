@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Building cloud native projects",
-    "href": "cloudnative/index.html",
+    "title": "Building mobile apps",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
