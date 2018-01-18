@@ -54,56 +54,51 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": " Managing Your Account",
-		"description": "Update your profile, set account and spending notifications, or manage orgs and spaces.",
-		"img": "homepage/images/admin.svg",
-		"href": "admin/adminpublic.html"
+		"title": "Managing Infrastructure Resources",
+		"description": "Use the customer portal to work with your infrastructure assets.",
+		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " Managing Identity and Access",
 		"description": "Manage user access or invite team members.",
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
-	},{
+	}, {
 		"title": "CLI and Dev Tools",
 		"description": "Access tools, such as a unified command line interface and CLI plug-ins.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
 	}, {
-		"title": "Service Availability",
-		"description": "Learn about service types and availability.",
-		"href": "services/services_region.html"
-	}, {
-		"title": "Managing Apps",
-		"description": "Use the dashboard in the Bluemix user interface to view and manage your apps and services.",
-		"img": "homepage/images/manage_apps.svg",
-		"href": "manageapps/mngapps.html"
-	}, {
-		"title": "Monitoring and Logging",
-		"description": "Follow application usage and data flow to get a better understanding of your deployment.",
-		"img": "homepage/images/monitor_log.svg",
-		"href": "monitor_log/monitoringandlogging.html"
-	}, {
 		"title": "Managing APIs",
 		"href": "apis/management/index.html"
+	}, {
+		"title": "Creating Apps",
+		"description": "Use the dashboard in the Bluemix user interface to view and manage your apps and services.",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " Managing Your Account",
+		"description": "Update your profile, set account and spending notifications, or manage orgs and spaces.",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
 	}, {
 		"title": "Managing Billing and Usage",
 		"description": "Estimate costs with the calculator and see actual costs with the usage details view.",
 		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "Managing Infrastructure Resources",
-		"description": "Use the customer portal to work with your infrastructure assets.",
-		"href": "customer-portal/getting-started.html"
-	}, {
-		"title": "Troubleshooting",
-		"description": "If you experience problems with the platform, use these troubleshooting tasks to determine what steps to take.",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
+		"href": "billing-usage/how_charged.html"
 	}, {
 		"title": "IBM Cloud Security",
 		"description": "Learn how IBM Cloud provides functional, infrastructure, operational, and physical security.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
+	}, {
+		"title": "Service Availability",
+		"description": "Learn about service types and availability.",
+		"href": "services/services_region.html"
+	}, {
+		"title": "Get Support",
+		"description": "If you experience problems with the platform, use these troubleshooting tasks to determine what steps to take.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
 	}, {
 		"title": "Hybrid",
 		"description": "Delivered as-a-service in dedicated and on-premises deployment models.",
@@ -112,7 +107,7 @@
 	}, {
 		"title": "Notices and Terms of Use",
 		"description": "Legal notices and terms of use.",
-		"href": "navigation/notices.html"
+		"href": "overview/terms-of-use/notices.html"
 	}, {
 		"title": "Glossary",
 		"description": "Glossary terms for Bluemix.",
@@ -120,7 +115,7 @@
 	}, {
 		"title": "What's New?",
 		"description": "What's new in Bluemix?",
-		"href": "whatsnew/index.html"
+		"href": "overview/whats-new/index.html"
 	}, {
 		"title": "Solution Tutorials",
 		"description": "Tutorials, architecture guides and additional resources to help you build on Cloud Platform",
