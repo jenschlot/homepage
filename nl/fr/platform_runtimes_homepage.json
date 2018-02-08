@@ -54,56 +54,51 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": " Gestion de votre compte",
-		"description": "Mettez à jour votre profil, définissez des notifications relatives à votre compte et à vos dépenses, ou gérez des organisations et des espaces.",
-		"img": "homepage/images/admin.svg",
-		"href": "admin/adminpublic.html"
+		"title": "Gestion des ressources d'infrastructure",
+		"description": "Servez-vous du portail client pour utiliser vos ressources d'infrastructure.",
+		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " Gestion de l'identité et de l'accès",
 		"description": "Gérez l'accès utilisateur ou invitez des membres d'équipe.",
 		"img": "homepage/images/admin.svg",
-		"href": "iam/iamusermanage.html"
-	},{
+		"href": "iam/quickstart.html"
+	}, {
 		"title": "Interface de ligne de commande et outils de développement",
 		"description": "Accédez à des outils tels qu'une interface de ligne de commande (CLI) unifiée et des plug-in d'interface de ligne de commande.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
 	}, {
-		"title": "Disponibilité des services",
-		"description": "Découvrez les types et la disponibilité des services.",
-		"href": "services/services_region.html"
-	}, {
-		"title": "Gestion des applications",
-		"description": "Utilisez le tableau de bord dans l'interface utilisateur Bluemix pour afficher et gérer vos applications et vos services.",
-		"img": "homepage/images/manage_apps.svg",
-		"href": "manageapps/mngapps.html"
-	}, {
-		"title": "Surveillance et journalisation",
-		"description": "Effectuez le suivi du flux de données et de l'utilisation des applications afin de mieux comprendre votre déploiement.",
-		"img": "homepage/images/monitor_log.svg",
-		"href": "monitor_log/monitoringandlogging.html"
-	}, {
 		"title": "Gestion des API",
 		"href": "apis/management/index.html"
+	}, {
+		"title": "Création d'applications",
+		"description": "Utilisez le tableau de bord dans l'interface utilisateur Bluemix pour afficher et gérer vos applications et vos services.",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " Gestion de votre compte",
+		"description": "Mettez à jour votre profil, définissez des notifications relatives à votre compte et à vos dépenses, ou gérez des organisations et des espaces.",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
 	}, {
 		"title": "Gestion de la facturation et de l'utilisation",
 		"description": "Estimez les coûts avec la calculatrice et affichez les coûts réels dans la vue Détails sur l'utilisation.",
 		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "Gestion des ressources d'infrastructure",
-		"description": "Servez-vous du portail client pour utiliser vos ressources d'infrastructure.",
-		"href": "customer-portal/getting-started.html"
-	}, {
-		"title": "Traitement des incidents",
-		"description": "Si vous rencontrez des problèmes liés à la plateforme, procédez à une opération de traitement des incidents afin de déterminer les actions à mener.",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
+		"href": "billing-usage/how_charged.html"
 	}, {
 		"title": "Sécurité IBM Cloud",
 		"description": "Découvrez comment IBM Cloud assure une sécurité fonctionnelle, d'infrastructure, opérationnelle et physique.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
+	}, {
+		"title": "Disponibilité des services",
+		"description": "Découvrez les types et la disponibilité des services.",
+		"href": "services/services_region.html"
+	}, {
+		"title": "Obtenir de l'aide",
+		"description": "Si vous rencontrez des problèmes liés à la plateforme, procédez à une opération de traitement des incidents afin de déterminer les actions à mener.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
 	}, {
 		"title": "Hybride",
 		"description": "Distribué en tant que service dans des modèles de déploiement dédiés et sur site.",
@@ -112,7 +107,7 @@
 	}, {
 		"title": "Mentions légales et conditions d'utilisation",
 		"description": "Mentions légales et conditions d'utilisation.",
-		"href": "navigation/notices.html"
+		"href": "overview/terms-of-use/notices.html"
 	}, {
 		"title": "Glossaire",
 		"description": "Glossaire des termes Bluemix.",
@@ -120,7 +115,7 @@
 	}, {
 		"title": "Nouveautés",
 		"description": "Présentation des nouveautés de Bluemix",
-		"href": "whatsnew/index.html"
+		"href": "overview/whats-new/index.html"
 	}, {
 		"title": "Tutoriels de solution",
 		"description": "Des tutoriels, des guides d'architecture et d'autres ressources vous aident à construire sur un plateforme cloud",

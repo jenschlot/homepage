@@ -54,56 +54,51 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": " アカウントの管理",
-		"description": "プロファイルの更新、アカウントと消費量の通知の設定、または組織とスペースの管理を行います。",
-		"img": "homepage/images/admin.svg",
-		"href": "admin/adminpublic.html"
+		"title": "インフラストラクチャー・リソースの管理",
+		"description": "カスタマー・ポータルを使用して、インフラストラクチャー資産を処理します。",
+		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " ID およびアクセス権限の管理",
 		"description": "ユーザー・アクセスの管理、またはチーム・メンバーの招待を行います。",
 		"img": "homepage/images/admin.svg",
-		"href": "iam/iamusermanage.html"
-	},{
+		"href": "iam/quickstart.html"
+	}, {
 		"title": "CLI と開発ツール",
 		"description": "統合コマンド・ライン・インターフェースおよび CLI プラグインなどのツールにアクセスできます。",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
 	}, {
-		"title": "サービス可用性",
-		"description": "サービス・タイプと可用性について説明します。",
-		"href": "services/services_region.html"
-	}, {
-		"title": "アプリの管理",
-		"description": "Bluemix ユーザー・インターフェースのダッシュボードを使用して、アプリケーションおよびサービスの表示と管理を行うことができます。",
-		"img": "homepage/images/manage_apps.svg",
-		"href": "manageapps/mngapps.html"
-	}, {
-		"title": "モニターとロギング",
-		"description": "アプリケーション使用およびデータ・フローをたどって、デプロイメントの理解を深めることができます。",
-		"img": "homepage/images/monitor_log.svg",
-		"href": "monitor_log/monitoringandlogging.html"
-	}, {
 		"title": "API の管理",
 		"href": "apis/management/index.html"
+	}, {
+		"title": "アプリの作成",
+		"description": "Bluemix ユーザー・インターフェースのダッシュボードを使用して、アプリケーションおよびサービスの表示と管理を行うことができます。",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " アカウントの管理",
+		"description": "プロファイルの更新、アカウントと消費量の通知の設定、または組織とスペースの管理を行います。",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
 	}, {
 		"title": "請求および使用量の管理",
 		"description": "計算器を使用してコストを見積もることができ、使用量詳細ビューで実際のコストを確認することができます。",
 		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "インフラストラクチャー・リソースの管理",
-		"description": "カスタマー・ポータルを使用して、インフラストラクチャー資産を処理します。",
-		"href": "customer-portal/getting-started.html"
-	}, {
-		"title": "トラブルシューティング",
-		"description": "プラットフォームに関する問題が発生した場合は、トラブルシューティング・タスクを実行して、行うべき処置を決定することができます。",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
+		"href": "billing-usage/how_charged.html"
 	}, {
 		"title": "IBM Cloud のセキュリティー",
 		"description": "機能、インフラストラクチャー、運用のセキュリティーと、物理的セキュリティーを IBM Cloud がどのように提供するのかを理解できます。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
+	}, {
+		"title": "サービス可用性",
+		"description": "サービス・タイプと可用性について説明します。",
+		"href": "services/services_region.html"
+	}, {
+		"title": "サポートの利用",
+		"description": "プラットフォームに関する問題が発生した場合は、トラブルシューティング・タスクを実行して、行うべき処置を決定することができます。",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
 	}, {
 		"title": "ハイブリッド",
 		"description": "専用およびオンプレミスのデプロイメント・モデルでサービスとして配信されます。",
@@ -112,7 +107,7 @@
 	}, {
 		"title": "特記事項およびご利用条件",
 		"description": "特記事項およびご利用条件。",
-		"href": "navigation/notices.html"
+		"href": "overview/terms-of-use/notices.html"
 	}, {
 		"title": "用語集",
 		"description": "Bluemix の用語集。",
@@ -120,7 +115,7 @@
 	}, {
 		"title": "新機能",
 		"description": "Bluemix の新機能",
-		"href": "whatsnew/index.html"
+		"href": "overview/whats-new/index.html"
 	}, {
 		"title": "ソリューション・チュートリアル",
 		"description": "クラウド・プラットフォームでの構築に役立つチュートリアル、アーキテクチャー・ガイド、その他のリソース",

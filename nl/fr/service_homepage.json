@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Génération de projets de cloud natifs",
-    "href": "cloudnative/index.html",
+    "title": "Génération d'applications mobiles",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

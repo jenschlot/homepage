@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Construindo projetos nativos de nuvem",
-    "href": "cloudnative/index.html",
+    "title": "Construindo aplicativos móveis",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

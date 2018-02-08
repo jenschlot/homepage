@@ -54,56 +54,51 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": " Gerenciando sua conta",
-		"description": "Atualize seu perfil, configure as notificações de conta e gastos ou gerencie organizações e espaços.",
-		"img": "homepage/images/admin.svg",
-		"href": "admin/adminpublic.html"
+		"title": "Gerenciando recursos de infraestrutura",
+		"description": "Use o portal do cliente para trabalhar com seus ativos de infraestrutura.",
+		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " Gerenciando a identidade e o acesso",
 		"description": "Gerencie o acesso de usuário ou convide membros da equipe.",
 		"img": "homepage/images/admin.svg",
-		"href": "iam/iamusermanage.html"
-	},{
+		"href": "iam/quickstart.html"
+	}, {
 		"title": "Ferramentas CLI e de desenvolvimento",
 		"description": "Ferramentas de acesso, como uma interface de nível de comando unificada e plug-ins de CLI.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
 	}, {
-		"title": "Disponibilidade de serviço",
-		"description": "Aprenda sobre os tipos de serviço e a disponibilidade.",
-		"href": "services/services_region.html"
-	}, {
-		"title": "Gerenciando apps",
-		"description": "Use o painel na interface com o usuário do Bluemix para visualizar e gerenciar seus aplicativos e serviços.",
-		"img": "homepage/images/manage_apps.svg",
-		"href": "manageapps/mngapps.html"
-	}, {
-		"title": "Monitoramento e criação de log",
-		"description": "Siga o uso do aplicativo e o fluxo de dados para obter um entendimento melhor da sua implementação.",
-		"img": "homepage/images/monitor_log.svg",
-		"href": "monitor_log/monitoringandlogging.html"
-	}, {
 		"title": "Gerenciando APIs",
 		"href": "apis/management/index.html"
+	}, {
+		"title": "Criando Apps",
+		"description": "Use o painel na interface com o usuário do Bluemix para visualizar e gerenciar seus aplicativos e serviços.",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " Gerenciando sua conta",
+		"description": "Atualize seu perfil, configure as notificações de conta e gastos ou gerencie organizações e espaços.",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
 	}, {
 		"title": "Gerenciando o faturamento e uso",
 		"description": "Estime custos com a calculador e veja os custos reais com a visualização de detalhes de uso.",
 		"img": "homepage/images/pricing.svg",
-		"href": "pricing/index.html"
-	}, {
-		"title": "Gerenciando recursos de infraestrutura",
-		"description": "Use o portal do cliente para trabalhar com seus ativos de infraestrutura.",
-		"href": "customer-portal/getting-started.html"
-	}, {
-		"title": "Resolução de problemas",
-		"description": "Se você tiver problemas com a plataforma, use essas tarefas de resolução de problemas para determinais quais etapas tomar.",
-		"img": "homepage/images/troubleshoot.svg",
-		"href": "troubleshoot/troubleshoot.html"
+		"href": "billing-usage/how_charged.html"
 	}, {
 		"title": "Segurança do IBM Cloud",
 		"description": "Saiba como o IBM Cloud fornece segurança funcional, operacional, física e de infraestrutura.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
+	}, {
+		"title": "Disponibilidade de serviço",
+		"description": "Aprenda sobre os tipos de serviço e a disponibilidade.",
+		"href": "services/services_region.html"
+	}, {
+		"title": "Obter suporte",
+		"description": "Se você tiver problemas com a plataforma, use essas tarefas de resolução de problemas para determinais quais etapas tomar.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
 	}, {
 		"title": "Híbrido",
 		"description": "Entregue como um serviço em modelos de implementação dedicado e no local.",
@@ -112,7 +107,7 @@
 	}, {
 		"title": "Avisos e termos de uso",
 		"description": "Avisos legais e termos de uso.",
-		"href": "navigation/notices.html"
+		"href": "overview/terms-of-use/notices.html"
 	}, {
 		"title": "Glossário",
 		"description": "Termos do glossário para o Bluemix.",
@@ -120,7 +115,7 @@
 	}, {
 		"title": "O que Há de Novo?",
 		"description": "O que há de novo no Bluemix?",
-		"href": "whatsnew/index.html"
+		"href": "overview/whats-new/index.html"
 	}, {
 		"title": "Tutoriais de solução",
 		"description": "Tutoriais, guias de arquitetura e recursos adicionais para ajudá-lo a construir no Cloud Platform",

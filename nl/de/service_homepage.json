@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Native Cloud-Projekte erstellen",
-    "href": "cloudnative/index.html",
+    "title": "Mobile Apps erstellen",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

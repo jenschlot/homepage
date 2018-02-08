@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "クラウド・ネイティブ・プロジェクトの構築",
-    "href": "cloudnative/index.html",
+    "title": "モバイル・アプリの作成",
+    "href": "services/mobile/index.html",
     "category_id": "モバイル"
   }, {
     "type": "extra",
