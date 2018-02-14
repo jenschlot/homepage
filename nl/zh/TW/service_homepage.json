@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Building 雲端原生專案",
-    "href": "cloudnative/index.html",
+    "title": "建置行動應用程式",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

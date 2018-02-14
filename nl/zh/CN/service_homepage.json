@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "构建云本机项目",
-    "href": "cloudnative/index.html",
+    "title": "构建移动应用程序",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

@@ -21,7 +21,7 @@
     "href": "openwhisk/index.html",
     "category_id": "compute"
   }, {
-    "title": "IBM Cloud Container Service",
+    "title": "IBM Cloud Container 서비스",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
     "category_id": "compute"
@@ -107,8 +107,8 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "클라우드 네이티브 프로젝트 빌드",
-    "href": "cloudnative/index.html",
+    "title": "모바일 앱 빌드",
+    "href": "services/mobile/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
