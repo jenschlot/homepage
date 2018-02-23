@@ -55,7 +55,7 @@
 		"href": "overview/ibm-cloud.html"
         }, {
 		"title": "인프라 리소스 관리",
-		"description": "인프라 자산에 대한 작업을 수행하려면 고객 포털을 사용하십시오.",
+		"description": "고객 포털을 사용하여 인프라 자산에 대한 작업을 수행합니다.",
 		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " ID 및 액세스 관리",
