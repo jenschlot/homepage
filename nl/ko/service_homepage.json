@@ -107,6 +107,11 @@
     "category_id": "devops"
   }, {
     "type": "extra",
+    "title": "IBM Cloud에서 Swift로 프로그래밍",
+    "href": "swift/apple_development.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
     "title": "모바일 앱 빌드",
     "href": "services/mobile/index.html",
     "category_id": "mobile"
@@ -115,6 +120,11 @@
     "title": "Mobile Client Access 작업",
     "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Security Advisor",
+    "href": "services/security-advisor/index.html",
+    "category_id": "security"
   }, {
     "type": "extra",
     "title": "보안 그룹",
