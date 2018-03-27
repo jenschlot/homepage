@@ -107,6 +107,11 @@
     "category_id": "devops"
   }, {
     "type": "extra",
+    "title": "Programando com o Swift no IBM Cloud",
+    "href": "swift/apple_development.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
     "title": "Construindo aplicativos móveis",
     "href": "services/mobile/index.html",
     "category_id": "mobile"
@@ -115,6 +120,11 @@
     "title": "Trabalhando com o Mobile Client Access",
     "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Consultor de segurança",
+    "href": "services/security-advisor/index.html",
+    "category_id": "security"
   }, {
     "type": "extra",
     "title": "Grupos de segurança",
