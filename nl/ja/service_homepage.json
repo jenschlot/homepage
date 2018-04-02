@@ -107,6 +107,11 @@
     "category_id": "devops"
   }, {
     "type": "extra",
+    "title": "IBM Cloud での Swift のプログラミング",
+    "href": "swift/apple_development.html",
+    "category_id": "モバイル"
+  }, {
+    "type": "extra",
     "title": "モバイル・アプリの作成",
     "href": "services/mobile/index.html",
     "category_id": "モバイル"
@@ -115,6 +120,11 @@
     "title": "モバイル・クライアント・アクセスの処理",
     "href": "services/mobileaccess/index.html",
     "category_id": "モバイル"
+  }, {
+    "type": "extra",
+    "title": "セキュリティー・アドバイザー",
+    "href": "services/security-advisor/index.html",
+    "category_id": "セキュリティー"
   }, {
     "type": "extra",
     "title": "セキュリティー・グループ",
