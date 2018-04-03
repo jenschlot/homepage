@@ -117,11 +117,6 @@
     "category_id": "mobile"
   }, {
     "type": "extra",
-    "title": "Working with Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
     "title": "Security Advisor",
     "href": "services/security-advisor/index.html",
     "category_id": "security"
