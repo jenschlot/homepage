@@ -92,11 +92,6 @@
     "category_id": "boilerplate"
   }, {
     "type": "extra",
-    "title": "Working with data",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "Working with Toolchains",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
