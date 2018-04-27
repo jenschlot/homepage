@@ -92,11 +92,6 @@
     "category_id": "ボイラープレート (boilerplate)"
   }, {
     "type": "extra",
-    "title": "データの処理",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "データ"
-  }, {
-    "type": "extra",
     "title": "ツールチェーンの処理",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "モバイル・アプリの作成",
     "href": "services/mobile/index.html",
-    "category_id": "モバイル"
-  }, {
-    "type": "extra",
-    "title": "モバイル・クライアント・アクセスの処理",
-    "href": "services/mobileaccess/index.html",
     "category_id": "モバイル"
   }, {
     "type": "extra",
