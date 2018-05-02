@@ -31,11 +31,6 @@
     "href": "services/Registry/index.html",
     "category_id": "compute"
   },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
-    "category_id": "compute"
-  },{
     "title": "IBM Cloud for VMware Solutions",
     "img": "homepage/images/vmware_icon.png",
     "href": "services/vmwaresolutions/index.html",
