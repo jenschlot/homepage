@@ -92,11 +92,6 @@
     "category_id": "contenedor modelo"
   }, {
     "type": "extra",
-    "title": "Utilización de datos",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "Trabajar con cadenas de herramientas",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "Creación de apps móviles",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Cómo trabajar con Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
