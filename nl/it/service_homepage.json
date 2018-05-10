@@ -92,11 +92,6 @@
     "category_id": "contenitore tipo"
   }, {
     "type": "extra",
-    "title": "Utilizzo dei dati",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "dati"
-  }, {
-    "type": "extra",
     "title": "Gestione delle toolchain",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -107,18 +102,13 @@
     "category_id": "devops"
   }, {
     "type": "extra",
-    "title": "Programmazione con Swift su IBM Cloud ",
+    "title": "Programmazione con Swift su IBM Cloud",
     "href": "swift/apple_development.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
     "title": "Creazione di applicazioni mobili",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Utilizzo di Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
