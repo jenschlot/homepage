@@ -92,11 +92,6 @@
     "category_id": "conteneur boilerplate"
   }, {
     "type": "extra",
-    "title": "Gestion de données",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "Utilisation de chaînes d'outils",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "Génération d'applications mobiles",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Utilisation de Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

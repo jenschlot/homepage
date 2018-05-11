@@ -92,11 +92,6 @@
     "category_id": "boilerplate"
   }, {
     "type": "extra",
-    "title": "Mit Daten arbeiten",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "Mit Toolchains arbeiten",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "Mobile Apps erstellen",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Mit Mobile Client Access arbeiten",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",

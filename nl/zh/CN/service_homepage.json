@@ -92,11 +92,6 @@
     "category_id": "boilerplate"
   }, {
     "type": "extra",
-    "title": "使用数据",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "使用工具链",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "构建移动应用程序",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "使用 Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
