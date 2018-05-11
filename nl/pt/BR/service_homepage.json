@@ -92,11 +92,6 @@
     "category_id": "modelo"
   }, {
     "type": "extra",
-    "title": "Trabalhando com dados",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "Trabalhando com Cadeias",
     "href": "Serviços / ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "Construindo aplicativos móveis",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Trabalhando com o Mobile Client Access",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
