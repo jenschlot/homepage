@@ -21,7 +21,7 @@
     "href": "openwhisk/index.html",
     "category_id": "compute"
   }, {
-    "title": "IBM Cloud Container 서비스",
+    "title": "IBM Cloud Container Service",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
     "category_id": "compute"
@@ -36,7 +36,7 @@
     "href": "services/schematics/index.html",
     "category_id": "compute"
   },{
-    "title": "VMware 솔루션용 IBM Cloud",
+    "title": "IBM Cloud for VMware Solutions",
     "img": "homepage/images/vmware_icon.png",
     "href": "services/vmwaresolutions/index.html",
     "category_id": "compute"
@@ -92,11 +92,6 @@
     "category_id": "boilerplate"
   }, {
     "type": "extra",
-    "title": "데이터 작업",
-    "href": "services/WorkWithData/index.html",
-    "category_id": "data"
-  }, {
-    "type": "extra",
     "title": "도구 체인 작업",
     "href": "services/ContinuousDelivery/toolchains_working.html",
     "category_id": "devops"
@@ -114,11 +109,6 @@
     "type": "extra",
     "title": "모바일 앱 빌드",
     "href": "services/mobile/index.html",
-    "category_id": "mobile"
-  }, {
-    "type": "extra",
-    "title": "Mobile Client Access 작업",
-    "href": "services/mobileaccess/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
