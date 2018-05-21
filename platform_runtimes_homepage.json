@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI and Dev Tools",
+		"title": "IBM Cloud Developer Tools (CLI)",
 		"description": "Access tools, such as a unified command line interface and CLI plug-ins.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
