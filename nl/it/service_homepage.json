@@ -1,39 +1,34 @@
 {
   "id": "docs_homepage_services",
   "title": "Elaborazione e servizi",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "contenitore tipo", 
-      "name": "Contenitori tipo", 
-      "tags": "contenitore tipo" 
+  "categories":
+  [
+    {
+      "id":
+      "contenitore tipo",
+      "name": "Contenitori tipo",
+      "tags": "contenitore tipo"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Applicazioni Cloud Foundry",
+    "title": "Ambiente Cloud Foundry Enterprise",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "calcola"
   }, {
-    "title": "Funzioni di IBM Cloud",
+    "title": "IBM Cloud Functions",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "calcola"
   }, {
-    "title": "Servizio IBM Cloud Container",
+    "title": "IBM Cloud Container Service",
     "img": "homepage/images/containerServiceIcon.svg",
     "href": "containers/container_index.html",
     "category_id": "calcola"
   }, {
-    "title": "Registro IBM Cloud Container",
+    "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
-    "category_id": "calcola"
-  },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
     "category_id": "calcola"
   },{
     "title": "IBM Cloud for VMware Solutions",

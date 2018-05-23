@@ -55,7 +55,7 @@
 		"href": "overview/ibm-cloud.html"
         }, {
 		"title": "Gestione delle risorse dell'infrastruttura",
-		"description": "Utilizza il portale del cliente per gestire le tue risorse di infrastruttura.",
+		"description": "Utilizza il portale clienti per gestire le tue risorse dell'infrastruttura.",
 		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " Gestione di identità e accesso",
