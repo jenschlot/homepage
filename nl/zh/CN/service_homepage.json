@@ -1,19 +1,19 @@
 {
   "id": "docs_homepage_services",
   "title": "计算和服务",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "boilerplate", 
-      "name": "样板", 
-      "tags": "boilerplate" 
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "样板",
+      "tags": "boilerplate"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Cloud Foundry 应用程序",
+    "title": "Cloud Foundry 企业环境",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "compute"
   }, {
     "title": "IBM Cloud 功能",
@@ -29,11 +29,6 @@
     "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
-    "category_id": "compute"
-  },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
     "category_id": "compute"
   },{
     "title": "IBM Cloud for VMware Solutions",

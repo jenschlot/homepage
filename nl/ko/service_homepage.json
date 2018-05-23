@@ -1,19 +1,19 @@
 {
   "id": "docs_homepage_services",
   "title": "컴퓨팅 및 서비스",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "boilerplate", 
-      "name": "Boilerplates", 
-      "tags": "boilerplate" 
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "Boilerplates",
+      "tags": "boilerplate"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Cloud Foundry 애플리케이션",
+    "title": "Cloud Foundry Enterprise Environment",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "compute"
   }, {
     "title": "IBM Cloud Functions",
@@ -29,11 +29,6 @@
     "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
-    "category_id": "compute"
-  },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
     "category_id": "compute"
   },{
     "title": "IBM Cloud for VMware Solutions",

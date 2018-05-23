@@ -1,22 +1,22 @@
 {
   "id": "docs_homepage_services",
   "title": "運算及服務",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "boilerplate", 
-      "name": "樣板", 
-      "tags": "boilerplate" 
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "樣板",
+      "tags": "boilerplate"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Cloud Foundry 應用程式",
+    "title": "Cloud Foundry 企業環境",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "compute"
   }, {
-    "title": "IBM Cloud 函數",
+    "title": "IBM Cloud Functions",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "compute"
@@ -31,12 +31,7 @@
     "href": "services/Registry/index.html",
     "category_id": "compute"
   },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
-    "category_id": "compute"
-  },{
-    "title": "IBM Cloud for VMware 解決方案",
+    "title": "IBM Cloud for VMware Solutions",
     "img": "homepage/images/vmware_icon.png",
     "href": "services/vmwaresolutions/index.html",
     "category_id": "compute"

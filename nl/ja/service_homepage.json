@@ -1,19 +1,19 @@
 {
   "id": "docs_homepage_services",
   "title": "計算およびサービス",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "ボイラープレート (boilerplate)", 
-      "name": "ボイラープレート", 
-      "tags": "ボイラープレート (boilerplate)" 
+  "categories":
+  [
+    {
+      "id":
+      "ボイラープレート (boilerplate)",
+      "name": "ボイラープレート",
+      "tags": "ボイラープレート (boilerplate)"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Cloud Foundry アプリケーション",
+    "title": "Cloud Foundry エンタープライズ環境",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "コンピュート (compute)"
   }, {
     "title": "IBM Cloud Functions",
@@ -29,11 +29,6 @@
     "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
-    "category_id": "コンピュート (compute)"
-  },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
     "category_id": "コンピュート (compute)"
   },{
     "title": "IBM Cloud for VMware Solutions",
