@@ -1,22 +1,22 @@
 {
   "id": "docs_homepage_services",
   "title": "Cálculo y Servicios",
-  "categories": 
-  [ 
-    { 
-      "id": 
-      "contenedor modelo", 
-      "name": "Contenedores modelo", 
-      "tags": "contenedor modelo" 
+  "categories":
+  [
+    {
+      "id":
+      "contenedor modelo",
+      "name": "Contenedores modelo",
+      "tags": "contenedor modelo"
     } ],
   "items": [{
     "id": "cfApp",
-    "title": "Aplicaciones de Cloud Foundry",
+    "title": "Cloud Foundry Enterprise Environment",
     "img": "homepage/images/cloud-foundry.svg",
-    "href": "cfapps/index.html",
+    "href": "cloud-foundry/index.html",
     "category_id": "compute"
   }, {
-    "title": "Funciones de IBM Cloud",
+    "title": "IBM Cloud Functions",
     "img": "homepage/images/whisk_icon.svg",
     "href": "openwhisk/index.html",
     "category_id": "compute"
@@ -29,11 +29,6 @@
     "title": "IBM Cloud Container Registry",
     "img": "homepage/images/registry_icon.svg",
     "href": "services/Registry/index.html",
-    "category_id": "compute"
-  },{
-    "title": "IBM Cloud Schematics",
-    "img": "homepage/images/schematics_icon.svg",
-    "href": "services/schematics/index.html",
     "category_id": "compute"
   },{
     "title": "Soluciones IBM Cloud for VMware",
