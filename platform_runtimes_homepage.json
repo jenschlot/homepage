@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "Working with Resources and Services",
+		"description": "Learn about working with your account resources.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud Security",
 		"description": "Learn how IBM Cloud provides functional, infrastructure, operational, and physical security.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "Service Availability",
-		"description": "Learn about service types and availability.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "Get Support",
 		"description": "If you experience problems with the platform, use these troubleshooting tasks to determine what steps to take.",
