@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Managing Infrastructure Resources",
+		"title": "Working in the Customer Portal",
 		"description": "Use the customer portal to work with your infrastructure assets.",
 		"href": "customer-portal/getting-started.html"
 	}, {
