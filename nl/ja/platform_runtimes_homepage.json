@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI と開発ツール",
+		"title": "IBM Cloud 開発者ツール (CLI)",
 		"description": "統合コマンド・ライン・インターフェースおよび CLI プラグインなどのツールにアクセスできます。",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "アーキテクチャーを参照して、ご使用のクラウド・アプリに最適のものを決定するのに役立てることができます。",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM のプライバシー・ステートメント",
+		"description": "ユーザーについて収集、使用、共有する個人情報に適用される、IBM の汎用プライバシー・プラクティス。",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]
