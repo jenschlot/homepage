@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI 及開發工具",
+		"title": "IBM Cloud Developer Tools (CLI)",
 		"description": "存取工具，例如統一指令行介面和 CLI 外掛程式。",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "瀏覽我們的架構，以協助判斷最適合雲端應用程式的架構。",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM 隱私權聲明",
+		"description": "IBM 的一般隱私權作法，適用於我們收集、使用及分享的關於使用者的個人資訊。",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]
