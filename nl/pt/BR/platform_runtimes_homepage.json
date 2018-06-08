@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "Ferramentas CLI e de desenvolvimento",
+		"title": "IBM Cloud Developer Tools (CLI)",
 		"description": "Ferramentas de acesso, como uma interface de nível de comando unificada e plug-ins de CLI.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "Procure em nossas arquiteturas para ajudar a determinar o mais adequado para seus apps em nuvem.",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM Declaração de Privacidade",
+		"description": "Práticas gerais de privacidade da IBM que se aplicam a informações pessoais que coletamos, usamos e compartilhamos sobre os usuários.",
+		"img": "homepage/images/architectures.svg",
+		"href": "Https://www.ibm.com/privacy"
 	}]
 
     }]
