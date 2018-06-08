@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI 和开发工具",
+		"title": "IBM Cloud Developer Tools (CLI)",
 		"description": "访问多种工具，例如统一命令行界面和 CLI 插件。",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "浏览体系结构可帮助确定您的云应用程序的最佳匹配。",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM 隐私声明",
+		"description": "适用于 IBM 收集、使用和共享用户相关个人信息的一般隐私惯例。",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]

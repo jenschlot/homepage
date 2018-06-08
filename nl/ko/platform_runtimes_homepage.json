@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI 및 개발 도구",
+		"title": "IBM Cloud Developer Tools(CLI)",
 		"description": "액세스 도구(예: 통합 명령행 인터페이스 및 CLI 플러그인)입니다.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "사용자의 클라우드 앱에 가장 적합한 아키텍처를 찾아보십시오.",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM 개인정보처리방침",
+		"description": "IBM에서 수집하고, 사용하고 공유하는 개인 정보에 적용되는 IBM의 일반적인 개인정보처리방침입니다. ",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]
