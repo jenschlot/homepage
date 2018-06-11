@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "CLI- und Dev-Tools",
+		"title": "IBM Cloud Developer Tools (CLI)",
 		"description": "Zugriffstools wie eine einheitliche Befehlszeilenschnittstelle und CLI-Plug-ins.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "Durchsuchen Sie unsere Architekturen, um die beste Lösung für Ihre Cloud-Apps zu bestimmen.",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM Datenschutzerklärung",
+		"description": "Allgemeine IBM Datenschutzverfahren für personenbezogene Daten, die über Benutzer erfasst, verwendet und geteilt werden.",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]
