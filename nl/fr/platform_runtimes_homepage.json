@@ -63,7 +63,7 @@
 		"img": "homepage/images/admin.svg",
 		"href": "iam/quickstart.html"
 	}, {
-		"title": "Interface de ligne de commande et outils de développement",
+		"title": "IBM Cloud Developer Tools (Interface de ligne de commande)",
 		"description": "Accédez à des outils tels qu'une interface de ligne de commande (CLI) unifiée et des plug-in d'interface de ligne de commande.",
 		"img": "homepage/images/cli.svg",
 		"href": "cli/index.html"
@@ -126,6 +126,11 @@
 		"description": "Parcourez nos architectures pour déterminer ce qui convient le mieux à vos applications en cloud.",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "Déclaration de confidentialité IBM",
+		"description": "Politique générale de confidentialité IBM s'appliquant aux informations personnelles que nous collectons, utilisons et partageons sur les utilisateurs.",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
 	}]
 
     }]
