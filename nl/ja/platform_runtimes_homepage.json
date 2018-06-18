@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "インフラストラクチャー・リソースの管理",
+		"title": "カスタマー・ポータルでの作業",
 		"description": "カスタマー・ポータルを使用して、インフラストラクチャー資産を処理します。",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "リソースおよびサービスの処理",
+		"description": "アカウント・リソースの処理を理解できます。",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud のセキュリティー",
 		"description": "機能、インフラストラクチャー、運用のセキュリティーと、物理的セキュリティーを IBM Cloud がどのように提供するのかを理解できます。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "サービス可用性",
-		"description": "サービス・タイプと可用性について説明します。",
-		"href": "services/services_region.html"
 	}, {
 		"title": "サポートの利用",
 		"description": "プラットフォームに関する問題が発生した場合は、トラブルシューティング・タスクを実行して、行うべき処置を決定することができます。",
