@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Infrastrukturressourcen verwalten",
+		"title": "Im Kundenportal arbeiten",
 		"description": "Verwalten Sie Ihre Infrastrukturressourcen über das Kundenportal.",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "Mit Ressourcen und Services arbeiten",
+		"description": "Informationen zum Arbeiten mit Ihren Kontoressourcen.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud-Sicherheit",
 		"description": "Erfahren Sie, wie IBM Cloud funktionelle und physische Sicherheit sowie Infrastruktur- und Betriebssicherheit bereitstellt.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "Serviceverfügbarkeit",
-		"description": "Informationen zu Servicetypen und Serviceverfügbarkeit.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "Unterstützung erhalten",
 		"description": "Wenn Probleme mit der Plattform auftreten, können Sie diese Fehlerbehebungstasks ausführen, um festzustellen, welche Schritte erforderlich sind.",
