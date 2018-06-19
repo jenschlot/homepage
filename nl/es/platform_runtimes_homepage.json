@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Gestión de recursos de infraestructura",
+		"title": "Cómo trabajar en el Portal de cliente",
 		"description": "Utilice el portal del cliente para trabajar con sus activos de infraestructura.",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "Cómo trabajar con Recursos y Servicios",
+		"description": "Obtenga información sobre cómo trabajar con los recursos de la cuenta.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud Security",
 		"description": "Aprender cómo IBM Cloud proporciona seguridad funcional, de infraestructura, operativa y física.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "Disponibilidad del servicio",
-		"description": "Obtenga información sobre los tipos de servicio y su disponibilidad.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "Obtener soporte",
 		"description": "Si tiene problemas con la plataforma, utilice estas tareas de resolución de problemas para determinar qué pasos debe emprender.",
