@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Gestion des ressources d'infrastructure",
+		"title": "Utilisation du portail client",
 		"description": "Servez-vous du portail client pour utiliser vos ressources d'infrastructure.",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "Utilisation des ressources et des services",
+		"description": "En savoir plus sur l'utilisation des ressources de compte.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "Sécurité IBM Cloud",
 		"description": "Découvrez comment IBM Cloud assure une sécurité fonctionnelle, d'infrastructure, opérationnelle et physique.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "Disponibilité des services",
-		"description": "Découvrez les types et la disponibilité des services.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "Obtenir de l'aide",
 		"description": "Si vous rencontrez des problèmes liés à la plateforme, procédez à une opération de traitement des incidents afin de déterminer les actions à mener.",
