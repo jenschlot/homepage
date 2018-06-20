@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "管理基础架构资源",
+		"title": "在客户门户网站中工作",
 		"description": "使用客户门户网站来使用基础架构资产。",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "使用资源和服务",
+		"description": "了解如何使用帐户资源。",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud 安全性",
 		"description": "了解 IBM Cloud 如何提供功能性、基础架构、操作和物理安全性。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "服务可用性",
-		"description": "了解服务类型和可用性。",
-		"href": "services/services_region.html"
 	}, {
 		"title": "获取支持",
 		"description": "如果您遇到平台问题，请使用这些故障诊断任务来确定要执行哪些步骤。",

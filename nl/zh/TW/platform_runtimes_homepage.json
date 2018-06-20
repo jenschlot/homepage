@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "管理基礎架構資源",
+		"title": "在客戶入口網站中工作",
 		"description": "使用客戶入口網站來處理基礎架構資產。",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "使用資源及服務",
+		"description": "瞭解如何使用您的帳戶資源",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud 安全",
 		"description": "瞭解 IBM Cloud 如何提供功能安全、基礎架構安全、作業安全及實體安全。",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "服務可用性",
-		"description": "瞭解服務類型和可用性。",
-		"href": "services/services_region.html"
 	}, {
 		"title": "取得支援",
 		"description": "如果您遇到平台問題，請使用這些疑難排解作業來判定要採取的步驟。",

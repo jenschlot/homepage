@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "인프라 리소스 관리",
+		"title": "고객 포털에서 작업",
 		"description": "고객 포털을 사용하여 인프라 자산에 대한 작업을 수행합니다.",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "리소스 및 서비스 관련 작업",
+		"description": "계정 리소스 작업에 대해 알아봅니다.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "IBM Cloud 보안",
 		"description": "IBM Cloud가 기능, 인프라, 운영 및 실제 보안을 제공하는 방법에 대해 알아봅니다.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "서비스 가용성",
-		"description": "서비스 유형 및 가용성에 대해 학습합니다.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "지원 받기",
 		"description": "플랫폼에서 문제점이 발생하는 경우 이 문제점 해결 태스크를 이용하여 무엇을 수행해야 하는지 파악할 수 있습니다.",
@@ -128,7 +128,7 @@
 		"href": "https://www.ibm.com/devops/method/category/architectures"
 	}, {
 		"title": "IBM 개인정보처리방침",
-		"description": "IBM에서 수집하고, 사용하고 공유하는 개인 정보에 적용되는 IBM의 일반적인 개인정보처리방침입니다. ",
+		"description": "IBM에서 수집하고, 사용하고 공유하는 개인 정보에 적용되는 IBM의 일반적인 개인정보처리방침입니다.",
 		"img": "homepage/images/architectures.svg",
 		"href": "https://www.ibm.com/privacy"
 	}]

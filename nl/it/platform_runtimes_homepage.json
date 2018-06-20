@@ -54,7 +54,7 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Gestione delle risorse dell'infrastruttura",
+		"title": "Gestione nel portale clienti",
 		"description": "Utilizza il portale clienti per gestire le tue risorse dell'infrastruttura.",
 		"href": "customer-portal/getting-started.html"
 	}, {
@@ -86,14 +86,14 @@
 		"img": "homepage/images/pricing.svg",
 		"href": "billing-usage/how_charged.html"
 	}, {
+		"title": "Gestione di risorse e servizi",
+		"description": "Ulteriori informazioni sulla gestione delle risorse del tuo account.",
+		"href": "resources/acct_resources.html"
+	}, {
 		"title": "Sicurezza IBM Cloud",
 		"description": "Scopri come IBM Cloud fornisce sicurezza funzionale, infrastrutturale, operativa e fisica.",
 		"img": "homepage/images/platform_security.svg",
 		"href": "security/index.html"
-	}, {
-		"title": "Disponibilità dei servizi",
-		"description": "Informazioni relative ai tipi e alla disponibilità dei servizi.",
-		"href": "services/services_region.html"
 	}, {
 		"title": "Richiedi supporto",
 		"description": "Se riscontri dei problemi con la piattaforma, utilizza queste attività di risoluzione dei problemi per determinare le azioni da eseguire.",
