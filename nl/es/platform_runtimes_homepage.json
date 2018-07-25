@@ -54,8 +54,8 @@
 		"img": "homepage/images/WhatIsBluemix-icon.svg",
 		"href": "overview/ibm-cloud.html"
         }, {
-		"title": "Cómo trabajar en el Portal de cliente",
-		"description": "Utilice el portal del cliente para trabajar con sus activos de infraestructura.",
+		"title": "Cómo trabajar en el Portal de clientes",
+		"description": "Utilice el portal de clientes para trabajar con sus activos de infraestructura.",
 		"href": "customer-portal/getting-started.html"
 	}, {
 		"title": " Gestión de acceso e identidades",
