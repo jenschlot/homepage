@@ -97,8 +97,13 @@
     "category_id": "devops"
   }, {
     "type": "extra",
+    "title": "Programming with Node on IBM Cloud",
+    "href": "node/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
     "title": "Programming with Swift on IBM Cloud",
-    "href": "swift/apple_development.html",
+    "href": "swift/index.html",
     "category_id": "mobile"
   }, {
     "type": "extra",
