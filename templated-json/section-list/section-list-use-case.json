@@ -1,0 +1,26 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistusecasesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistusecasesectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-byocusecase.json",
+        "list-item-scratchusecase.json",
+        "list-item-outsideusecase.json",
+        "list-item-migrateusecase.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-tile-usecase"
+}

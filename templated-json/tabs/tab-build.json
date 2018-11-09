@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{tabbuildtabMenuContainerTitle}}"
+    },
+    "sections": {
+      "type": "reference",
+      "values": [
+        "section-tile-languages.json",
+        "section-list-compute.json",
+        "section-card-apis-sdks.json"
+      ]
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "prod",
+    "staging"
+  ],
+  "name": "tab-build"
+}

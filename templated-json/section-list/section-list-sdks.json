@@ -1,0 +1,30 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistsdkssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistsdkssectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-sdks.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-console-sdk.json",
+        "list-item-cli-sdk.json",
+        "list-item-console-accessibility.json",
+        "list-item-control-provision.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-list-sdks"
+}

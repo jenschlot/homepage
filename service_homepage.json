@@ -1,0 +1,119 @@
+{
+  "id": "docs_homepage_services",
+  "title": "Compute & Services",
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "Boilerplates",
+      "tags": "boilerplate"
+    } ],
+  "items": [{
+    "id": "bare-metal",
+    "title": "Bare Metal",
+    "href": "bare-metal/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud for SAP-Certified Infrastructure",
+    "img": "homepage/images/sap.svg",
+    "href": "infrastructure/sap-iaas-offering/index.html",
+    "category_id": "compute"
+  }, {
+    "id": "cfApp",
+    "title": "Cloud Foundry Enterprise Environment",
+    "img": "homepage/images/cloud-foundry.svg",
+    "href": "cloud-foundry/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Functions",
+    "img": "homepage/images/whisk_icon.svg",
+    "href": "openwhisk/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Service",
+    "img": "homepage/images/containerServiceIcon.svg",
+    "href": "containers/container_index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud for VMware Solutions",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "Virtual Servers GT (test)",
+    "href": "vsi-gt/vsi_index.html",
+    "category_id": "compute"
+  }, {
+    "title": "Cloud Foundry Buildpacks",
+    "img": "homepage/images/cloud-foundry.svg",
+    "href": "runtimes/common/index.html",
+    "category_id": "compute"
+  }, {
+    "type": "extra",
+    "title": "Backup (test)",
+    "href": "infrastructure/Backup/index.html",
+    "category_id": "storage"
+  }, {
+    "type": "extra",
+    "title": "Data Transfer Service (test)",
+    "href": "infrastructure/DataTransferService/index.html",
+    "category_id": "storage"
+  }, {
+    "type": "extra",
+    "title": "Automating cloud resource provisioning with Terraform",
+    "href": "terraform/index.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Working with Toolchains",
+    "href": "services/ContinuousDelivery/toolchains_working.html",
+    "img": "homepage/images/toolchains_icon.svg",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Dedicated GitHub Enterprise",
+    "href": "services/ghededicated/index.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Programming with Node on IBM Cloud",
+    "href": "node/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Programming with Swift on IBM Cloud",
+    "href": "swift/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Building mobile apps",
+    "href": "services/mobile/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Block Storage GT (test)",
+    "href": "infrastructure/block-storage-gt/index.html",
+    "category_id": "storage"
+  }, {
+    "type": "extra",
+    "title": "File Storage GT (test)",
+    "href": "infrastructure/file-storage-gt/index.html",
+    "category_id": "storage"
+  }, {
+    "type": "extra",
+    "title": "Security Advisor",
+    "href": "services/security-advisor/index.html",
+    "category_id": "security"
+  }, {
+    "type": "extra",
+    "title": "Security groups",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "security"
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  "elements": {
+    "homepageContainer": {
+      "type": "reference",
+      "value": "homepage-container.json"
+    },
+    "footerContainer": {
+      "type": "reference",
+      "value": "footer-container.json"
+    },
+    "horizontalFooterList": {
+      "type": "reference",
+      "value": "horizontal-footer-list.json"
+    }
+  }
+}

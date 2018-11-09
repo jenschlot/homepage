@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "videoTitle": {
+      "elementType": "text",
+      "value": "{{videodeveloperTitle}}"
+    },
+    "videoDesc": {
+      "elementType": "text",
+      "value": "{{videodeveloperDesc}}"
+    },
+    "videoLink": {
+      "elementType": "link",
+      "linkURL": "SUNvqLqUS1I",
+      "linkText": "{{videodeveloperAltText}}"
+    }
+  },
+  "type": "videos",
+  "tags": [
+    "staging"
+  ],
+  "name": "video-developer"
+}

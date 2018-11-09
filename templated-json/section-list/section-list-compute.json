@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistcomputesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistcomputesectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-bare-metal.json",
+        "list-item-kubernetes.json",
+        "list-item-cf.json",
+        "list-item-vmware.json",
+        "list-item-cloud-functions.json",
+        "list-item-virtual-server.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-compute"
+}

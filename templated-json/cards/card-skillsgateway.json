@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardskillsgatewaycardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=O602980X82373O75",
+      "linkText": "{{cardskillsgatewaycardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/WhatIsBluemix-icon.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging"
+  ],
+  "name": "card-skillsgateway"
+}

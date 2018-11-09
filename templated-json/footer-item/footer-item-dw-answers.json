@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "https://developer.ibm.com/answers/smart-spaces/12/bluemix.html",
+      "linkText": "{{footeritemdwanswersfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-dw-answers"
+}

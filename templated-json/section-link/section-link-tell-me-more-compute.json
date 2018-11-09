@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "bare-metal/about.html",
+      "linkText": "{{sectionlinktellmemorecomputesectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-link-tell-me-more-compute"
+}

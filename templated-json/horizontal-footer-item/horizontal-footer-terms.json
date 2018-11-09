@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "horizontalFooterLink": {
+      "elementType": "link",
+      "linkURL": "overview/terms-of-use/notices.html",
+      "linkText": "{{horizontalfootertermshorizontalFooterLink}}"
+    }
+  },
+  "type": "horizontal-footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "horizontal-footer-terms"
+}

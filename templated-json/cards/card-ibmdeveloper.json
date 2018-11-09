@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardibmdevelopercardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://developer.ibm.com/depmodels/cloud",
+      "linkText": "{{cardibmdevelopercardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/WhatIsBluemix-icon.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging"
+  ],
+  "name": "card-ibmdeveloper"
+}

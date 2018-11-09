@@ -1,0 +1,27 @@
+{
+  "elements": {
+    "sectionTileTitle": {
+      "elementType": "text",
+      "value": "{{sectiontilequickstartsectionTileTitle}}"
+    },
+    "sectionTileDescription": {
+      "elementType": "text",
+      "value": "{{sectiontilequickstartsectionTileDescription}}"
+    },
+    "sectionTileTiles": {
+      "type": "reference",
+      "values": [
+        "tiles-devquickstart.json",
+        "tiles-accountquickstart.json",
+        "tiles-entarchquickstart.json",
+        "tiles-sysadminquickstart.json",
+        "tiles-litequickstart.json"
+      ]
+    }
+  },
+  "type": "section-tile",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-tile-quickstart"
+}

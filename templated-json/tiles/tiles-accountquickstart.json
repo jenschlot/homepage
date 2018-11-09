@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_acc_ad.html",
+      "linkText": "{{tilesaccountquickstarttileLink}}"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging"
+  ],
+  "name": "tiles-accountquickstart"
+}

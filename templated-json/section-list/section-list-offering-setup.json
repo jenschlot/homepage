@@ -1,0 +1,34 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistofferingsetupsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistofferingsetupsectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-dev-guide.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-new-service.json",
+        "list-item-migrate-service.json",
+        "list-item-internal-account.json",
+        "list-item-resource-controller.json",
+        "list-item-iam.json",
+        "list-item-ghost.json",
+        "list-item-resource-catalog.json",
+        "list-item-metering.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-list-offering-setup"
+}

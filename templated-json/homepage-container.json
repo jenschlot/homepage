@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "homepageContainerWhatsNew": {
+      "type": "reference",
+      "value": "whats-new.json"
+    },
+    "homepageContainerTab": {
+      "type": "reference",
+      "values": [
+        "tab-get-start.json",
+        "tab-build.json",
+        "tab-manage.json",
+        "tab-tools.json",
+        "tab-dev-guide.json",
+        "tab-all-docs.json"
+      ]
+    },
+    "Title": {
+      "elementType": "text",
+      "value": "{{homepagecontainerTitle}}"
+    }
+  },
+  "type": "homepage-container",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "homepage-container"
+}

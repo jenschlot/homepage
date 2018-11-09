@@ -1,0 +1,25 @@
+{
+  "elements": {
+    "sectionCardTitle": {
+      "elementType": "text",
+      "value": "{{sectioncardstartbuildingsectionCardTitle}}"
+    },
+    "sectionCardDesc": {
+      "elementType": "text",
+      "value": "{{sectioncardstartbuildingsectionCardDesc}}"
+    },
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "card-starter-kit-tutorials.json",
+        "card-solutions-tutorials.json"
+      ]
+    }
+  },
+  "type": "section-card",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-card-start-building"
+}

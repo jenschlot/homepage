@@ -1,0 +1,33 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-overview.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-gs-tutorial.json",
+        "list-item-dev-journey.json",
+        "list-item-create-apps.json",
+        "list-item-working-with-resources.json",
+        "list-item-customer-portal.json",
+        "list-item-third-party.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-get-start"
+}

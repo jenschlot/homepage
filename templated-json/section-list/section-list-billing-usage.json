@@ -1,0 +1,32 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistbillingusagesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistbillingusagesectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-billing-usage.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-calculate-costs.json",
+        "list-item-consolidated-billing.json",
+        "list-item-viewing-usage.json",
+        "list-item-eu-supported.json",
+        "list-item-billing-faqs.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-billing-usage"
+}

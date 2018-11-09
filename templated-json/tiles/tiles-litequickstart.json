@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_lite.html",
+      "linkText": "{{tileslitequickstarttileLink}}"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging"
+  ],
+  "name": "tiles-litequickstart"
+}

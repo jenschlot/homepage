@@ -1,0 +1,34 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistmanageiamsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistmanageiamsectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-overview.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-getting-started-iam.json",
+        "list-item-roles-permissions.json",
+        "list-item-mfa.json",
+        "list-item-api-keys.json",
+        "list-item-invite-users.json",
+        "list-item-service-ids.json",
+        "list-item-iam-faq.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-manage-iam"
+}

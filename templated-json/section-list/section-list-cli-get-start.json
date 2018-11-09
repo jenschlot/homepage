@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistcligetstartsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistcligetstartsectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-cli-get-start.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-cli-get-start.json",
+        "list-item-extend-cli.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-cli-get-start"
+}

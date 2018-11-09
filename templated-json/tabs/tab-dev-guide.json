@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{tabdevguidetabMenuContainerTitle}}"
+    },
+    "sections": {
+      "type": "reference",
+      "values": [
+        "section-list-offering-setup.json",
+        "section-list-create-docs.json",
+        "section-list-sdks.json",
+        "section-list-pipeline.json",
+        "section-list-finance-accounting.json",
+        "section-list-enable-services.json"
+      ]
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "staging"
+  ],
+  "name": "tab-dev-guide"
+}

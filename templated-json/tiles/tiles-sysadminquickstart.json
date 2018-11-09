@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_cloud_admin.html",
+      "linkText": "{{tilessysadminquickstarttileLink}}"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging"
+  ],
+  "name": "tiles-sysadminquickstart"
+}

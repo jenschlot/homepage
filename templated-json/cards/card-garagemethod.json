@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardgaragemethodcardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://ibm.com/cloud/garage/category/practices",
+      "linkText": "{{cardgaragemethodcardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/WhatIsBluemix-icon.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging"
+  ],
+  "name": "card-garagemethod"
+}

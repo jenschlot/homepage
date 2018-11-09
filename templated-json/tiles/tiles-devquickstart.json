@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_dev.html",
+      "linkText": "{{tilesdevquickstarttileLink}}"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging"
+  ],
+  "name": "tiles-devquickstart"
+}

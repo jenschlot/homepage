@@ -1,0 +1,62 @@
+{
+  "id": "faq-library",
+  "title": "Frequently asked questions - v2",
+  "searchHint": "Search FAQs",
+  "clearAll": "Clear all",
+  "help": {
+    "id": "helpBox",
+    "name": "Need more help?",
+    "items": [
+      {
+        "id": "docs",
+        "name": "Browse documentation - v2",
+        "img": "/docs-content/images/docs.svg",
+        "href": "docs"
+      },
+      {
+        "id": "community",
+        "name": "IBM Developer community - v2",
+        "img": "/docs-content/images/bee.svg",
+        "href": "https://developer.ibm.com"
+      },
+      {
+        "id": "support",
+        "name": "Visit the support center - v2",
+        "img": "/docs-content/images/support.svg",
+        "href": "unifiedsupport/supportcenter"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "platform",
+      "name": "Platform - v2"
+    },
+    {
+      "id": "products",
+      "name": "Products - v2"
+    }
+  ],
+  "items": [
+    {
+      "id": "account",
+      "title": "Account - v2"
+    },
+    {
+      "id": "billing-usage",
+      "title": "Billing and usage - v2"
+    },
+    {
+      "id": "customer-portal",
+      "title": "Customer portal - v2"
+    },
+    {
+      "id": "iam",
+      "title": "Identity and Access Management - v2"
+    },
+    {
+      "id": "resources",
+      "title": "Resources - v2"
+    }
+  ]
+}

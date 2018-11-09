@@ -1,0 +1,32 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistfinanceaccountingsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistfinanceaccountingsectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-finance.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-internal-paas-costs.json",
+        "list-item-internal-iaas-costs.json",
+        "list-item-internal-chargeback-faqs.json",
+        "list-item-brand-account.json",
+        "list-item-manage-brand-account.json",
+        "list-item-brand-faqs.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-list-finance-accounting"
+}

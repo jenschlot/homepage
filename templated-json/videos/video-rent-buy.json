@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "videoTitle": {
+      "elementType": "text",
+      "value": "{{videorentbuyTitle}}"
+    },
+    "videoDesc": {
+      "elementType": "text",
+      "value": "{{videorentbuyDesc}}"
+    },
+    "videoLink": {
+      "elementType": "link",
+      "linkURL": "tHK-wKdggbQ",
+      "linkText": "{{videodeveloperAltText}}"
+    }
+  },
+  "type": "videos",
+  "tags": [
+    "staging"
+  ],
+  "name": "video-rent-buy"
+}

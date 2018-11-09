@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "https://github.ibm.com/Bluemix/Console.DevOps/wiki/Console-Deployment-Schedule",
+      "linkText": "{{listitemdeployschedulelistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-deploy-schedule"
+}
