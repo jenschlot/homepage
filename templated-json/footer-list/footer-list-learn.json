@@ -8,8 +8,6 @@
       "type": "reference",
       "values": [
         "footer-item-blog.json",
-        "footer-item-architecture-center.json",
-        "footer-item-garage-method.json",
         "footer-item-ibm-cloud.json",
         "footer-item-case-studies.json"
       ]

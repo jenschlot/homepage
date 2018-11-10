@@ -8,6 +8,10 @@
       "elementType": "text",
       "value": "{{sectionlistcomputesectionListDesc}}"
     },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-compute.json"
+    },
     "sectionListItems": {
       "type": "reference",
       "values": [

@@ -2,7 +2,7 @@
   "elements": {
     "sectionlinklabel": {
       "elementType": "link",
-      "linkURL": "bare-metal/about.html",
+      "linkURL": "overview/ibm-cloud-platform.html#choosing-your-hosting-environment",
       "linkText": "{{sectionlinktellmemorecomputesectionlinklabel}}"
     },
     "sectionLinkIcon": {
