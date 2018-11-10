@@ -4,6 +4,10 @@
       "elementType": "link",
       "linkURL": "overview/quickstart_ea.html",
       "linkText": "{{tilesentarchquickstarttileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/quick-start.svg"
     }
   },
   "type": "tiles",

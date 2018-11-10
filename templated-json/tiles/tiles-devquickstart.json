@@ -4,6 +4,10 @@
       "elementType": "link",
       "linkURL": "overview/quickstart_dev.html",
       "linkText": "{{tilesdevquickstarttileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/quick-start.svg"
     }
   },
   "type": "tiles",
