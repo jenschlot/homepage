@@ -60,6 +60,7 @@
   "cardsolutionstutorialscardDesc": "Learn how to build, deploy, and scale real-world solutions on IBM Cloud.",
   "sectionlistcomputesectionListTitle": "Choose your hosting environment",
   "sectionlistcomputesectionListDesc": "Choose from bare metal servers to serverless compute to build the best solution for your workloads.",
+  "sectionlinktellmemorecomputesectionlinklabel": "Tell me more",
   "listitembaremetallistItemLink": "Bare Metal Server",
   "listitemkuberneteslistItemLink": "Kubernetes Service",
   "listitemcflistItemLink": "IBM Cloud Foundry Enterprise Environment",
