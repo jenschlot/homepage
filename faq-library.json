@@ -11,7 +11,7 @@
       "id": "docs",
       "name": "Browse documentation",
       "img": "/docs-content/images/docs.svg",
-      "href": "docs"
+      "href": "/"
     }, {
       "id": "community",
       "name": "IBM Developer community",
@@ -21,7 +21,7 @@
       "id": "support",
       "name": "Visit the support center",
       "img": "/docs-content/images/support.svg",
-      "href": "unifiedsupport/supportcenter"
+      "href": "https://{DomainName}/unifiedsupport/supportcenter"
     }]
   },
   "categories":
