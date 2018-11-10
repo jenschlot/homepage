@@ -1,0 +1,138 @@
+{
+  "id": "homepage",
+	"items": [{
+    "id": "docs_homepage_runtimes",
+    "title": "從部署您的第一個應用程式開始",
+    "items": [{
+      "title": "Liberty for Java",
+      "img": "homepage/images/javaweb_featured.svg",
+      "href": "runtimes/liberty/getting-started.html"
+    }, {
+      "title": "SDK for Node.js",
+      "img": "homepage/images/node_featured.svg",
+      "href": "runtimes/nodejs/getting-started.html"
+    }, {
+      "title": "ASP.NET Core",
+      "img": "homepage/images/dotnet_featured.svg",
+      "href": "runtimes/dotnet/getting-started.html"
+    }, {
+      "title": "Swift",
+      "img": "homepage/images/swift.svg",
+      "href": "runtimes/swift/getting-started.html"
+    }, {
+      "title": "XPages",
+      "img": "homepage/images/xpages_featured.svg",
+      "href": "starters/xpages/index.html"
+    }, {
+      "title": "Go",
+      "img": "homepage/images/go_featured.svg",
+      "href": "runtimes/go/getting-started.html"
+    }, {
+      "title": "PHP",
+      "img": "homepage/images/php_featured.svg",
+      "href": "runtimes/php/getting-started.html"
+    }, {
+      "title": "Python",
+      "img": "homepage/images/python_featured.svg",
+      "href": "runtimes/python/getting-started.html"
+    }, {
+      "title": "Ruby",
+      "img": "homepage/images/ruby_featured.svg",
+      "href": "runtimes/ruby/getting-started.html"
+    }, {
+      "title": "Tomcat",
+      "img": "homepage/images/i-runtime-tomcat.svg",
+      "href": "runtimes/tomcat/getting-started.html"
+    }]
+    
+    }, {
+    "id": "docs_homepage_platform",
+    "title": "IBM Cloud",
+    "items": [{
+	    	"title": "何謂 IBM Cloud？",
+		"description": "結合基礎架構、應用程式及服務，以體驗雲端的新方式。",
+		"img": "homepage/images/WhatIsBluemix-icon.svg",
+		"href": "overview/ibm-cloud.html"
+        }, {
+		"title": "在客戶入口網站中工作",
+		"description": "使用客戶入口網站來處理基礎架構資產。",
+		"href": "customer-portal/getting-started.html"
+	}, {
+		"title": " 管理身分及存取",
+		"description": "管理使用者存取或邀請團隊成員。",
+		"img": "homepage/images/admin.svg",
+		"href": "iam/quickstart.html"
+	}, {
+		"title": "IBM Cloud Developer Tools (CLI)",
+		"description": "存取工具，例如統一指令行介面和 CLI 外掛程式。",
+		"img": "homepage/images/cli.svg",
+		"href": "cli/index.html"
+	}, {
+		"title": "管理 API",
+		"href": "apis/management/index.html"
+	}, {
+		"title": "建立應用程式",
+		"description": "使用 Bluemix 使用者介面中的儀表板來檢視及管理應用程式與服務。",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " 管理帳戶",
+		"description": "更新設定檔、設定帳戶和消費通知，或者管理組織和空間。",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
+	}, {
+		"title": "管理計費及用量",
+		"description": "利用計算機來預估成本，以及利用「用量詳細資料」視圖來查看實際成本。",
+		"img": "homepage/images/pricing.svg",
+		"href": "billing-usage/how_charged.html"
+	}, {
+		"title": "使用資源及服務",
+		"description": "瞭解如何使用您的帳戶資源",
+		"href": "resources/acct_resources.html"
+	}, {
+		"title": "IBM Cloud 安全",
+		"description": "瞭解 IBM Cloud 如何提供功能安全、基礎架構安全、作業安全及實體安全。",
+		"img": "homepage/images/platform_security.svg",
+		"href": "security/index.html"
+	}, {
+		"title": "取得支援",
+		"description": "如果您遇到平台問題，請使用這些疑難排解作業來判定要採取的步驟。",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
+	}, {
+		"title": "混合",
+		"description": "以服務形式在專用及內部部署部署模型中交付。",
+		"img": "homepage/images/hybrid.svg",
+		"href": "hybrid/index.html"
+	}, {
+		"title": "注意事項及使用條款",
+		"description": "法律聲明及使用條款。",
+		"href": "overview/terms-of-use/notices.html"
+	}, {
+		"title": "名詞解釋",
+		"description": "Bluemix 的名詞解釋。",
+		"href": "overview/glossary/index.html"
+	}, {
+		"title": "新增功能",
+		"description": "Bluemix 的新增功能？",
+		"href": "overview/whats-new/index.html"
+	}, {
+		"title": "解決方案指導教學",
+		"description": "指導教學、架構手冊及其他資源，可協助您以 Cloud Platform 為建置基礎",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
+	}, {
+		"title": "架構中心",
+		"description": "瀏覽我們的架構，以協助判斷最適合雲端應用程式的架構。",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "IBM 隱私權聲明",
+		"description": "IBM 的一般隱私權作法，適用於我們收集、使用及分享的關於使用者的個人資訊。",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
+	}]
+
+    }]
+  }
+

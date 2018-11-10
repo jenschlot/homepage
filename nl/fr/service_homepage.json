@@ -1,0 +1,122 @@
+{
+  "id": "docs_homepage_services",
+  "title": "Compute & Services",
+  "categories":
+  [
+    {
+      "id":
+      "conteneur boilerplate",
+      "name": "Conteneurs boilerplate",
+      "tags": "conteneur boilerplate"
+    } ],
+  "items": [{
+    "id": "cfApp",
+    "title": "Cloud Foundry Enterprise Environment",
+    "img": "homepage/images/cloud-foundry.svg",
+    "href": "cloud-foundry/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Functions",
+    "img": "homepage/images/whisk_icon.svg",
+    "href": "openwhisk/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "Service IBM Cloud Container",
+    "img": "homepage/images/containerServiceIcon.svg",
+    "href": "containers/container_index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry/index.html",
+    "category_id": "compute"
+  },{
+    "title": "Solutions IBM Cloud for VMware",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions/index.html",
+    "category_id": "compute"
+  },{
+    "title": "Watson IoT Platform Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoT-starter/iot500.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "IoT for Electronics Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Java Cloudant Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/java-cloudant/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Module de démarrage LoopBack",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/LoopBack/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Node.js Cloudant DB Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/node-cloudant/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Node-RED Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/Node-RED/nodered.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Ruby Sinatra Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/rubysinatra/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "StrongLoop Arc Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/StrongLoopArc/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "Java Workload Scheduler Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/workloadscheduler/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "title": "IBM XPages Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/XPagesStarter/index.html",
+    "category_id": "conteneur boilerplate"
+  }, {
+    "type": "extra",
+    "title": "Utilisation de chaînes d'outils",
+    "href": "services/ContinuousDelivery/toolchains_working.html",
+    "category_id": "devops"
+  },{
+    "type": "extra",
+    "title": "Dedicated GitHub Enterprise",
+    "href": "services/ghededicated/index.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "Programmation avec Swift sur IBM Cloud",
+    "href": "swift/apple_development.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Génération d'applications mobiles",
+    "href": "services/mobile/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "Security Advisor",
+    "href": "services/security-advisor/index.html",
+    "category_id": "security"
+  }, {
+    "type": "extra",
+    "title": "Groupes de sécurité",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "security"
+  }]
+}
+
+
+

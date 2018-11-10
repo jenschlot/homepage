@@ -1,0 +1,138 @@
+{
+  "id": "homepage",
+	"items": [{
+    "id": "docs_homepage_runtimes",
+    "title": "Inizia a distribuire la tua prima applicazione",
+    "items": [{
+      "title": "Liberty for Java",
+      "img": "homepage/images/javaweb_featured.svg",
+      "href": "runtimes/liberty/getting-started.html"
+    }, {
+      "title": "SDK for Node.js",
+      "img": "homepage/images/node_featured.svg",
+      "href": "runtimes/nodejs/getting-started.html"
+    }, {
+      "title": "ASP.NET Core",
+      "img": "homepage/images/dotnet_featured.svg",
+      "href": "runtimes/dotnet/getting-started.html"
+    }, {
+      "title": "Swift",
+      "img": "homepage/images/swift.svg",
+      "href": "runtimes/swift/getting-started.html"
+    }, {
+      "title": "XPages",
+      "img": "homepage/images/xpages_featured.svg",
+      "href": "starters/xpages/index.html"
+    }, {
+      "title": "Go",
+      "img": "homepage/images/go_featured.svg",
+      "href": "runtimes/go/getting-started.html"
+    }, {
+      "title": "PHP",
+      "img": "homepage/images/php_featured.svg",
+      "href": "runtimes/php/getting-started.html"
+    }, {
+      "title": "Python",
+      "img": "homepage/images/python_featured.svg",
+      "href": "runtimes/python/getting-started.html"
+    }, {
+      "title": "Ruby",
+      "img": "homepage/images/ruby_featured.svg",
+      "href": "runtimes/ruby/getting-started.html"
+    }, {
+      "title": "Tomcat",
+      "img": "homepage/images/i-runtime-tomcat.svg",
+      "href": "runtimes/tomcat/getting-started.html"
+    }]
+    
+    }, {
+    "id": "docs_homepage_platform",
+    "title": "IBM Cloud",
+    "items": [{
+	    	"title": "Cos'è IBM Cloud?",
+		"description": "Un nuovo modo di sperimentare il cloud, combinando infrastruttura, applicazioni e servizi.",
+		"img": "homepage/images/WhatIsBluemix-icon.svg",
+		"href": "overview/ibm-cloud.html"
+        }, {
+		"title": "Gestione nel portale clienti",
+		"description": "Utilizza il portale clienti per gestire le tue risorse dell'infrastruttura.",
+		"href": "customer-portal/getting-started.html"
+	}, {
+		"title": " Gestione di identità e accesso",
+		"description": "Gestisci l'accesso degli utenti o invita i membri del team.",
+		"img": "homepage/images/admin.svg",
+		"href": "iam/quickstart.html"
+	}, {
+		"title": "IBM Cloud Developer Tools (CLI)",
+		"description": "Strumenti di accesso, come un'interfaccia riga di comando unificata e i plug-in delle CLI.",
+		"img": "homepage/images/cli.svg",
+		"href": "cli/index.html"
+	}, {
+		"title": "Gestione delle API",
+		"href": "apis/management/index.html"
+	}, {
+		"title": "Creazione di applicazioni",
+		"description": "Utilizza il dashboard nell'interfaccia utente Bluemix per visualizzare e gestire le tue applicazioni e i tuoi servizi.",
+		"img": "homepage/images/manage_apps.svg",
+		"href": "apps/index.html"
+	}, {
+		"title": " Gestione del tuo account",
+		"description": "Aggiorna il tuo profilo, imposta l'account e le notifiche di spesa o gestisci organizzazioni e spazi.",
+		"img": "homepage/images/admin.svg",
+		"href": "account/index.html"
+	}, {
+		"title": "Gestione della fatturazione e dell'utilizzo",
+		"description": "Stima i costi con il calcolatore e vedi i costi effettivi con la vista dei dettagli di utilizzo.",
+		"img": "homepage/images/pricing.svg",
+		"href": "billing-usage/how_charged.html"
+	}, {
+		"title": "Gestione di risorse e servizi",
+		"description": "Ulteriori informazioni sulla gestione delle risorse del tuo account.",
+		"href": "resources/acct_resources.html"
+	}, {
+		"title": "Sicurezza IBM Cloud",
+		"description": "Scopri come IBM Cloud fornisce sicurezza funzionale, infrastrutturale, operativa e fisica.",
+		"img": "homepage/images/platform_security.svg",
+		"href": "security/index.html"
+	}, {
+		"title": "Richiedi supporto",
+		"description": "Se riscontri dei problemi con la piattaforma, utilizza queste attività di risoluzione dei problemi per determinare le azioni da eseguire.",
+		"img": "homepage/images/troubleshoot.svg",
+		"href": "get-support/howtogetsupport.html"
+	}, {
+		"title": "Ibrido",
+		"description": "Fornito come un servizio in modelli di distribuzione dedicati e installati in loco.",
+		"img": "homepage/images/hybrid.svg",
+		"href": "hybrid/index.html"
+	}, {
+		"title": "Informazioni particolari e termini di utilizzo",
+		"description": "Note legali e termini di utilizzo.",
+		"href": "overview/terms-of-use/notices.html"
+	}, {
+		"title": "Glossario",
+		"description": "Termini del glossario per Bluemix.",
+		"href": "overview/glossary/index.html"
+	}, {
+		"title": "Novità",
+		"description": "Novità in Bluemix",
+		"href": "overview/whats-new/index.html"
+	}, {
+		"title": "Esercitazioni della soluzione",
+		"description": "Esercitazioni, guide di architettura e risorse aggiuntive per aiutarti a costruire sulla piattaforma cloud",
+		"img": "homepage/images/architectures.svg",
+		"href": "tutorials/index.html"
+	}, {
+		"title": "Architecture Center",
+		"description": "Sfoglia le nostre architetture per determinare cosa meglio si adatta alle tue applicazioni cloud.",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/devops/method/category/architectures"
+	}, {
+		"title": "Dichiarazione sulla privacy IBM",
+		"description": "Pratiche di privacy generali di IBM che si applicano alle informazioni personali che raccogliamo, usiamo e condividiamo relative agli utenti.",
+		"img": "homepage/images/architectures.svg",
+		"href": "https://www.ibm.com/privacy"
+	}]
+
+    }]
+  }
+

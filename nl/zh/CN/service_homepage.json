@@ -1,0 +1,122 @@
+{
+  "id": "docs_homepage_services",
+  "title": "计算和服务",
+  "categories":
+  [
+    {
+      "id":
+      "boilerplate",
+      "name": "样板",
+      "tags": "boilerplate"
+    } ],
+  "items": [{
+    "id": "cfApp",
+    "title": "Cloud Foundry 企业环境",
+    "img": "homepage/images/cloud-foundry.svg",
+    "href": "cloud-foundry/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud 功能",
+    "img": "homepage/images/whisk_icon.svg",
+    "href": "openwhisk/index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Service",
+    "img": "homepage/images/containerServiceIcon.svg",
+    "href": "containers/container_index.html",
+    "category_id": "compute"
+  }, {
+    "title": "IBM Cloud Container Registry",
+    "img": "homepage/images/registry_icon.svg",
+    "href": "services/Registry/index.html",
+    "category_id": "compute"
+  },{
+    "title": "IBM Cloud for VMware Solutions",
+    "img": "homepage/images/vmware_icon.png",
+    "href": "services/vmwaresolutions/index.html",
+    "category_id": "compute"
+  },{
+    "title": "Watson IoT Platform Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoT-starter/iot500.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "IoT for Electronics Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/IoTElectronics-starter/iot4egettingstarted.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Java Cloudant Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/java-cloudant/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "LoopBack Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/LoopBack/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Node.js Cloudant DB Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/node-cloudant/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Node-RED Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/Node-RED/nodered.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Ruby Sinatra Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/rubysinatra/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "StrongLoop Arc Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/StrongLoopArc/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "Java Workload Scheduler Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/workloadscheduler/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "title": "IBM XPages Web Starter",
+    "img": "homepage/images/Bluemix-logo.svg",
+    "href": "starters/XPagesStarter/index.html",
+    "category_id": "boilerplate"
+  }, {
+    "type": "extra",
+    "title": "使用工具链",
+    "href": "services/ContinuousDelivery/toolchains_working.html",
+    "category_id": "devops"
+  },{
+    "type": "extra",
+    "title": "Dedicated GitHub Enterprise",
+    "href": "services/ghededicated/index.html",
+    "category_id": "devops"
+  }, {
+    "type": "extra",
+    "title": "在 IBM Cloud 上使用 Swift 编程",
+    "href": "swift/apple_development.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "构建移动应用程序",
+    "href": "services/mobile/index.html",
+    "category_id": "mobile"
+  }, {
+    "type": "extra",
+    "title": "安全顾问程序",
+    "href": "services/security-advisor/index.html",
+    "category_id": "security"
+  }, {
+    "type": "extra",
+    "title": "安全组",
+    "href": "infrastructure/security-groups/sg_index.html",
+    "category_id": "security"
+  }]
+}
+
+
+
