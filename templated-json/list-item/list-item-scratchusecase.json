@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "overview/scratch-use-case.html",
+      "linkURL": "apps/tutorials/tutorial_scratch.html",
       "linkText": "{{listitemscratchusecaselistLink}}"
     },
     "linkIcon": {

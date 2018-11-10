@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "overview/outside-use-case.html",
+      "linkURL": "resources/connect_external_app.html",
       "linkText": "{{listitemoutsideusecaselistLink}}"
     },
     "linkIcon": {
