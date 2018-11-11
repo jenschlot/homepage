@@ -12,9 +12,9 @@
       "type": "reference",
       "values": [
         "tiles-devquickstart.json",
-        "tiles-accountquickstart.json",
         "tiles-entarchquickstart.json",
         "tiles-sysadminquickstart.json",
+        "tiles-accountquickstart.json",
         "tiles-litequickstart.json"
       ]
     }
