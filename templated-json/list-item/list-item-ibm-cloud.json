@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "overview/ibm-cloud.html",
+      "linkURL": "overview/ibm-cloud-platform.html",
       "linkText": "{{listitemibmcloudlistItemLink}}"
     },
     "linkIcon": {
