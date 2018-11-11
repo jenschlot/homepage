@@ -2,7 +2,7 @@
   "elements": {
     "footerItemLink": {
       "elementType": "link",
-      "linkURL": "https://developer.ibm.com/answers/smart-spaces/12/bluemix.html",
+      "linkURL": "https://developer.ibm.com/answers/topics/ibm-cloud/",
       "linkText": "{{footeritemdwanswersfooterItemLink}}"
     }
   },
