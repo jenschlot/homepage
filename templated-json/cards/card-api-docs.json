@@ -6,7 +6,7 @@
     },
     "cardLink": {
       "elementType": "link",
-      "linkURL": "https://console.bluemix.net/apidocs",
+      "linkURL": "/apidocs",
       "linkText": "{{cardapidocscardLink}}"
     },
     "cardsIcon": {
