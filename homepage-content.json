@@ -82,6 +82,7 @@
   "tabmanagetabMenuContainerTitle": "Manage",
   "sectionlistmanageiamsectionListTitle": "Identity and access management",
   "sectionlistmanageiamsectionListDesc": "Securely authenticate users for platform services and control access to resources consistently across the IBM Cloud platform.",
+  "sectionlinktellmemoreiamsectionlinklabel": "Tell me more",
   "listitemgettingstartediamlistItemLink": "Getting started with IBM Cloud IAM",
   "listitemrolespermissionslistItemLink": "User roles and permissions",
   "listitemmfalistItemLink": "Enabling multi-factor authentication",
