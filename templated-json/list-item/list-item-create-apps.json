@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "apps/index.html",
+      "linkURL": "apps/tutorials/tutorial_starter-kit.html",
       "linkText": "{{listitemcreateappslistItemLink}}"
     },
     "linkIcon": {
