@@ -2,8 +2,8 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "account/bp_account.html",
-      "linkText": "{{listitembpsaccountlistItemLink}}"
+      "linkURL": "cli/machine-learning-cli-plugin/machine-learning-cli.html",
+      "linkText": "{{listitemmlcmdreferencelistItemLink}}"
     },
     "linkIcon": {
       "elementType": "image",
@@ -15,5 +15,5 @@
     "staging",
     "prod"
   ],
-  "name": "list-item-bps-account"
+  "name": "list-item-machine-learning-cmd-reference"
 }

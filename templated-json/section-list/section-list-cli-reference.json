@@ -15,7 +15,10 @@
         "list-item-idt-cmd-reference.json",
         "list-item-container-registry.json",
         "list-item-sl-cmd-reference.json",
-        "list-item-wsk-cmd-reference.json"
+        "list-item-wsk-cmd-reference.json",
+        "list-item-kube-cmd-reference.json",
+        "list-item-ml-cmd-reference.json",
+        "list-item-cis-cmd-reference.json"
       ]
     }
   },

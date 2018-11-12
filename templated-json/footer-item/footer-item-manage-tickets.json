@@ -2,7 +2,7 @@
   "elements": {
     "footerItemLink": {
       "elementType": "link",
-      "linkURL": "get-support/mantick.html",
+      "linkURL": "get-support/opencase.html",
       "linkText": "{{footeritemmanageticketsfooterItemLink}}"
     }
   },

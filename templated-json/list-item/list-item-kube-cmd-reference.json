@@ -2,8 +2,8 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "account/bp_account.html",
-      "linkText": "{{listitembpsaccountlistItemLink}}"
+      "linkURL": "cli/container-service-cli-plugin/kubernetes-service-cli.html",
+      "linkText": "{{listitemkubecmdreferencelistItemLink}}"
     },
     "linkIcon": {
       "elementType": "image",
@@ -15,5 +15,5 @@
     "staging",
     "prod"
   ],
-  "name": "list-item-bps-account"
+  "name": "list-item-kube-cmd-reference"
 }

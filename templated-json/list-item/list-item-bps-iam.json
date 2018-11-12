@@ -2,8 +2,8 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "account/bp_account.html",
-      "linkText": "{{listitembpsaccountlistItemLink}}"
+      "linkURL": "iam/bp_access.html",
+      "linkText": "{{listitembpsiamlistItemLink}}"
     },
     "linkIcon": {
       "elementType": "image",
@@ -15,5 +15,5 @@
     "staging",
     "prod"
   ],
-  "name": "list-item-bps-account"
+  "name": "list-item-bps-iam"
 }
