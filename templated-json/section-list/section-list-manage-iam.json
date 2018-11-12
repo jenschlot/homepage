@@ -21,7 +21,8 @@
         "list-item-api-keys.json",
         "list-item-invite-users.json",
         "list-item-service-ids.json",
-        "list-item-iam-faq.json"
+        "list-item-iam-faq.json",
+        "list-item-bps-iam.json"
       ]
     }
   },
