@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>lite-account-32</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lite-account-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,11 L28,11 C29.1045695,11 30,11.8954305 30,13 L30,27 C30,28.1045695 29.1045695,29 28,29 L4,29 C2.8954305,29 2,28.1045695 2,27 L2,13 C2,11.8954305 2.8954305,11 4,11 L11,11 L11,9.2 C11,6.3281193 13.2385763,4 16,4 C18.7614237,4 21,6.3281193 21,9.2 L21,11 Z M19,11 L19,9.6 C19,7.6117749 17.6568542,6 16,6 C14.3431458,6 13,7.6117749 13,9.6 L13,11 L19,11 Z M4,13 L4,27 L28,27 L28,13 L4,13 Z" id="Combined-Shape" fill="#3D70B2" fill-rule="nonzero"></path>
+    </g>
+</svg>
