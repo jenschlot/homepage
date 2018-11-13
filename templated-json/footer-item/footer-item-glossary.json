@@ -2,7 +2,7 @@
   "elements": {
     "footerItemLink": {
       "elementType": "link",
-      "linkURL": "overview/glossary/index.html",
+      "linkURL": "overview/glossary/glossary.html",
       "linkText": "{{footeritemglossaryfooterItemLink}}"
     }
   },
