@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "containers/cs_internal_multi_az.html",
+      "linkURL": "containers/cs_clusters_planning.html",
       "linkText": "{{listitemkublistItemLink}}"
     },
     "linkIcon": {
