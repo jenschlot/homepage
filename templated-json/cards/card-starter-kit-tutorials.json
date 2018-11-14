@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "recipes/index.html",
+      "linkText": "{{cardstarterkittutorialscardLink}}"
+    },
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardstarterkittutorialscardDesc}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Starter_kits.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging"
+  ],
+  "name": "card-starter-kit-tutorials"
+}

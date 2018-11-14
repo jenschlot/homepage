@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/Wfba9e56cc40c_4bb2_8805_e05bdeb2105f/page/Request%20access%20to%20pagerduty",
+      "linkText": "{{listitempagerdutylistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-pager-duty"
+}

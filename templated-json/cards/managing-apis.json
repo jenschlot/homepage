@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{managingapiscardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "apis/management/index.html",
+      "linkText": "{{managingapiscardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Managing_APIs.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "prod",
+    "staging"
+  ],
+  "name": "managing-apis"
+}

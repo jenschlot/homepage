@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistpipelinesectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistpipelinesectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-pipeline.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-checklist.json",
+        "list-item-deploy-schedule.json",
+        "list-item-pager-duty.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-list-pipeline"
+}

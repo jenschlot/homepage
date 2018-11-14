@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "cli/index.html",
+      "linkText": "{{sectionlinktellmemorecligetstartsectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-link-tell-me-more-cli-get-start"
+}

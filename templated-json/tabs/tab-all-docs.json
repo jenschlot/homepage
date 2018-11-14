@@ -1,0 +1,14 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{taballdocstabMenuContainerTitle}}"
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "tab-all-docs"
+}

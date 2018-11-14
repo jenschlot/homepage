@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "overview/ibm-cloud-platform.html#choosing-your-hosting-environment",
+      "linkText": "{{sectionlinktellmemorecomputesectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-link-tell-me-more-compute"
+}

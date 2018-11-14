@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardapidocscardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://console.cloud.ibm.com/apidocs",
+      "linkText": "{{cardapidocscardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/API_docs.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "card-api-docs"
+}

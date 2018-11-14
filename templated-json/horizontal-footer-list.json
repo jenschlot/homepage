@@ -1,0 +1,20 @@
+{
+  "elements": {
+    "horizontalFooterItems": {
+      "type": "reference",
+      "values": [
+        "horizontal-footer-privacy.json",
+        "horizontal-footer-terms.json",
+        "horizontal-footer-accessibility.json",
+        "horizontal-footer-glossary.json",
+        "horizontal-footer-feedback.json"
+      ]
+    }
+  },
+  "type": "horizontal-footer-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "horizontal-footer-list"
+}

@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "https://www.ibm.com/cloud-computing/bluemix/case-studies",
+      "linkText": "{{footeritemcasestudiesfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-case-studies"
+}

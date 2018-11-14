@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "https://www.ibm.com/privacy/us/en/?lnk=flg-priv-usen",
+      "linkText": "{{footeritemibmprivacyfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-ibm-privacy"
+}

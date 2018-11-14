@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "developing/writing/index.html",
+      "linkText": "{{listitemwritinglistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-writing"
+}

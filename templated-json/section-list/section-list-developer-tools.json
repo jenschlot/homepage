@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistdevelopertoolssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistdevelopertoolssectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-cli-plugins.json",
+        "list-item-idt-using.json",
+        "list-item-local-app-debug.json",
+        "list-item-idt-vsc.json",
+        "list-item-jetbrains.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-developer-tools"
+}

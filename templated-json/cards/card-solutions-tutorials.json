@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "tutorials/index.html",
+      "linkText": "{{cardsolutionstutorialscardLink}}"
+    },
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardsolutionstutorialscardDesc}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/solution_tutorials.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "card-solutions-tutorials"
+}

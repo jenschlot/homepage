@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "overview/aidata-journey.html",
+      "linkText": "{{listitemaidatajourneylistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-aidata-journey"
+}

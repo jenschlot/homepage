@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "starters/xpages/index.html",
+      "linkText": "{{tilesxsptileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/xpages_featured.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "tiles-xsp"
+}

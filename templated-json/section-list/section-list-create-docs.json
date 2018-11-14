@@ -1,0 +1,34 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistcreatedocssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistcreatedocssectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-docs.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-writing.json",
+        "list-item-code-nav.json",
+        "list-item-markdown.json",
+        "list-item-translation.json",
+        "list-item-builds.json",
+        "list-item-accessibility.json",
+        "list-item-api-docs.json",
+        "list-item-analytics.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-list-create-docs"
+}

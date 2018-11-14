@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "developing/get-coding/runbooks_cluster_creation_checklist.html",
+      "linkText": "{{listitemchecklistlistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-checklist"
+}

@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "overview/quickstart_ea.html",
+      "linkText": "{{tilesentarchquickstarttileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/enterprise-architect.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "tiles-entarchquickstart"
+}

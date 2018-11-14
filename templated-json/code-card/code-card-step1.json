@@ -1,0 +1,21 @@
+{
+  "elements": {
+    "codeItemTitle": {
+      "elementType": "text",
+      "value": "{{codecardstep1codeItemTitle}}"
+    },
+    "codeItems": {
+      "type": "reference",
+      "values": [
+        "code-item-mac-linux.json",
+        "code-item-windows.json"
+      ]
+    }
+  },
+  "type": "code-card",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "code-card-step1"
+}

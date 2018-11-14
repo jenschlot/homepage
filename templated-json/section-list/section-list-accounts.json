@@ -1,0 +1,34 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistaccountssectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistaccountssectionListDesc}}"
+    },
+    "sectionListLink": {
+      "type": "reference",
+      "value": "section-link-tell-me-more-accounts.json"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-change-plan.json",
+        "list-item-rg-bps.json",
+        "list-item-access.json",
+        "list-item-bps-account.json",
+        "list-item-account-settings.json",
+        "list-item-hybrid.json",
+        "list-item-account-faqs.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-accounts"
+}

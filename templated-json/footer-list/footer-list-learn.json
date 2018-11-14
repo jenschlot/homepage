@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "footerListTitle": {
+      "elementType": "text",
+      "value": "{{footerlistlearnfooterListTitle}}"
+    },
+    "footerListItem": {
+      "type": "reference",
+      "values": [
+        "footer-item-blog.json",
+        "footer-item-ibm-cloud.json",
+        "footer-item-case-studies.json"
+      ]
+    }
+  },
+  "type": "footer-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-list-learn"
+}

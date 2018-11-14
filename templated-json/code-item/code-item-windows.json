@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "codeItemDesc": {
+      "elementType": "text",
+      "value": "{{codeitemwindowscodeItemDesc}}"
+    },
+    "codeItemFormattedText": {
+      "elementType": "text",
+      "value": "{{codeitemwindowscodeItemFormattedText}}"
+    }
+  },
+  "type": "code-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "code-item-windows"
+}
