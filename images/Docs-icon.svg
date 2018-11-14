@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-132 206 55 69"
-	 enable-background="new -132 206 55 69" xml:space="preserve">
-<title>Docs icon</title>
-<desc>Created with Sketch.</desc>
-<g id="Docs" sketch:type="MSPage">
-	<g id="Docs-icon" transform="translate(1.000000, 0.000000)" sketch:type="MSLayerGroup">
-		
-			<path id="Stroke-5" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="
-			M-131.9,252.9v-46.1h33.6L-79,220h-19.2v-13.3"/>
-		
-			<path id="Stroke-6" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="
-			M-79,252.2V220"/>
-		
-			<path id="Stroke-7" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="
-			M-131.9,251v23.2H-79V251"/>
-		<path id="Stroke-8" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" d="
-			M-122.8,229h35.9"/>
-		<path id="Stroke-9" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" d="
-			M-122.8,244h35.9"/>
-		<path id="Stroke-10" sketch:type="MSShapeGroup" fill="none" stroke="#2D3F49" stroke-width="1.5" stroke-linecap="round" d="
-			M-122.8,236h35.9"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>docs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="docs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Icon/document/$ui-05" transform="translate(2.000000, 0.000000)" fill="#5596E6">
+            <path d="M10.5813895,3.99560309 L8.01441679,1.42863035 L8.04015101,3.98773525 L10.5813895,3.99560309 Z M7.01005595,1 L1,1 L1,15 L11,15 L11,4.99690393 L8.03705496,4.98773046 C7.48990191,4.98603644 7.04570346,4.5449187 7.04020157,3.99779069 L7.01005595,1 Z M1,0 L8,0 L12,4 L12,15 C12,15.5522847 11.5522847,16 11,16 L1,16 C0.44771525,16 0,15.5522847 0,15 L0,1 C0,0.44771525 0.44771525,0 1,0 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <rect id="line" fill-rule="evenodd" x="3" y="9" width="6" height="1"></rect>
+            <rect id="line" fill-rule="evenodd" x="3" y="12" width="6" height="1"></rect>
+        </g>
+    </g>
 </svg>

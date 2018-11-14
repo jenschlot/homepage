@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>developer-32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.0453333,17 L18,13.0006667 L22.0466667,9 L23,9.94266667 L19.9066667,13.0006667 L22.9986667,16.0573333 L22.0453333,17 Z M25.9546667,17 L25.0013333,16.0573333 L28.0933333,13.0006667 L25,9.94266667 L25.9533333,9 L30,13.0006667 L25.9546667,17 Z M10,2 C12.7614237,2 15,4.23857625 15,7 C15,9.76142375 12.7614237,12 10,12 C7.23857625,12 5,9.76142375 5,7 C5.00314117,4.23987841 7.23987841,2.00314117 10,2 Z M10,0 C6.13400675,-8.8817842e-16 3,3.13400675 3,7 C3,10.8659932 6.13400675,14 10,14 C13.8659932,14 17,10.8659932 17,7 C17,3.13400675 13.8659932,3.10862447e-15 10,0 Z M20,28 L18,28 L18,23 C17.9967489,20.239924 15.760076,18.0032511 13,18 L7,18 C4.23992404,18.0032511 2.00325114,20.239924 2,23 L2,28 L0,28 L0,23 C0.00451860542,19.13588 3.13587997,16.0045186 7,16 L13,16 C16.86412,16.0045186 19.9954814,19.13588 20,23 L20,28 Z" id="path-1"></path>
+    </defs>
+    <g id="developer-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="🎨Color" transform="translate(1.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="color/fill/black-core" mask="url(#mask-2)" fill="#3D70B2">
+                <g transform="translate(-49.000000, -48.000000)" id="Fill-4">
+                    <polygon points="0 124 124 124 124 1.42108547e-14 0 1.42108547e-14"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
