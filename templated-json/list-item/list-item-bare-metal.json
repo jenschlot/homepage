@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "bare-metal/index.html",
+      "linkText": "{{listitembaremetallistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/bare-metal.png"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-bare-metal"
+}

@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "billing-usage/estimating_costs.html",
+      "linkText": "{{listitemcalculatecostslistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-calculate-costs"
+}

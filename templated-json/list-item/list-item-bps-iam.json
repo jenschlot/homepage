@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "iam/bp_access.html",
+      "linkText": "{{listitembpsiamlistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-bps-iam"
+}

@@ -1,0 +1,28 @@
+{
+  "elements": {
+    "sectionCardTitle": {
+      "elementType": "text",
+      "value": "{{sectioncardapissdkssectionCardTitle}}"
+    },
+    "sectionCardDesc": {
+      "elementType": "text",
+      "value": "{{sectioncardapissdkssectionCardDesc}}"
+    },
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "card-api-docs.json",
+        "managing-apis.json",
+        "card-sldn.json",
+        "card-sdk-mobile.json",
+        "card-sdk-watson.json"
+      ]
+    }
+  },
+  "type": "section-card",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-card-apis-sdks"
+}

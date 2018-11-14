@@ -1,0 +1,31 @@
+{
+  "elements": {
+    "sectionListTitle": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListTitle}}"
+    },
+    "sectionListDesc": {
+      "elementType": "text",
+      "value": "{{sectionlistgetstartsectionListDesc}}"
+    },
+    "sectionListItems": {
+      "type": "reference",
+      "values": [
+        "list-item-ibm-cloud.json",
+        "list-item-create-apps.json",
+        "list-item-console.json",
+        "list-item-working-with-resources.json",
+        "list-item-dev-journey.json",
+        "list-item-customer-portal.json",
+        "list-item-it-ops-journey.json",
+        "list-item-third-party.json"
+      ]
+    }
+  },
+  "type": "section-list",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-list-get-start"
+}

@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "overview/prereqs.html",
+      "linkText": "{{footeritemprereqsfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-prereqs"
+}

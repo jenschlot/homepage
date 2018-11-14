@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardsdkmobilecardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "cli/sdk/sdk.html",
+      "linkText": "{{cardsdkmobilecardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/SDKs_mobile.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "card-sdk-mobile"
+}

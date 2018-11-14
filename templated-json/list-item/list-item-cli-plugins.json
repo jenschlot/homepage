@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "cli/reference/ibmcloud/extend_cli.html",
+      "linkText": "{{listitemclipluginslistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-cli-plugins"
+}

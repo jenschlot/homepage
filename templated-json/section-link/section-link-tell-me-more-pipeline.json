@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "sectionlinklabel": {
+      "elementType": "link",
+      "linkURL": "developing/get-coding/runbooks_cluster_creation_checklist.html",
+      "linkText": "{{sectionlinktellmemorepipelinesectionlinklabel}}"
+    },
+    "sectionLinkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/right-arrow.svg"
+    }
+  },
+  "type": "section-link",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-link-tell-me-more-pipeline"
+}

@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "overview/feedback.html",
+      "linkText": "{{footeritemsubmitfeedbackfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-submit-feedback"
+}

@@ -1,0 +1,17 @@
+{
+  "elements": {
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "video-welcome.json",
+        "video-developer.json",
+        "video-rent-buy.json"
+      ]
+    }
+  },
+  "type": "section-video",
+  "tags": [
+    "staging"
+  ],
+  "name": "section-video-get-start"
+}

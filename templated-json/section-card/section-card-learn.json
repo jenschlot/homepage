@@ -1,0 +1,29 @@
+{
+  "elements": {
+    "sectionCardTitle": {
+      "elementType": "text",
+      "value": "{{sectioncardlearnsectionCardTitle}}"
+    },
+    "sectionCardDesc": {
+      "elementType": "text",
+      "value": "{{sectioncardlearnsectionCardDesc}}"
+    },
+    "sectionCards": {
+      "type": "reference",
+      "values": [
+        "card-solutions-tutorials.json",
+        "card-archcenter.json",
+        "card-garagemethod.json",
+        "card-ibmdeveloper.json",
+        "card-skillsgateway.json",
+        "card-programming-guide.json"
+      ]
+    }
+  },
+  "type": "section-card",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "section-card-learn"
+}

@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "tabMenuContainerTitle": {
+      "elementType": "text",
+      "value": "{{tabmanagetabMenuContainerTitle}}"
+    },
+    "sections": {
+      "type": "reference",
+      "values": [
+        "section-list-manage-iam.json",
+        "section-list-accounts.json",
+        "section-list-billing-usage.json"
+      ]
+    }
+  },
+  "type": "tab-menu-container",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "tab-manage"
+}

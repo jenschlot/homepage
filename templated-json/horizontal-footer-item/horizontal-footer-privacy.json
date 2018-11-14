@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "horizontalFooterLink": {
+      "elementType": "link",
+      "linkURL": "https://www.ibm.com/privacy/us/en/",
+      "linkText": "{{horizontalfooterprivacyhorizontalFooterLink}}"
+    }
+  },
+  "type": "horizontal-footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "horizontal-footer-privacy"
+}

@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "tileLink": {
+      "elementType": "link",
+      "linkURL": "runtimes/php/getting-started.html",
+      "linkText": "{{tilesphptileLink}}"
+    },
+    "tileIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/php_featured.svg"
+    }
+  },
+  "type": "tiles",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "tiles-php"
+}

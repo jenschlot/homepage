@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "overview/it-ops-journey.html",
+      "linkText": "{{listitemitopsjourneylistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-it-ops-journey"
+}

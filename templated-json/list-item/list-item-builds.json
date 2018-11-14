@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "developing/writing/build/index.html#builds",
+      "linkText": "{{listitembuildslistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging"
+  ],
+  "name": "list-item-builds"
+}

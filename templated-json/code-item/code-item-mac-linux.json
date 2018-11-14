@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "codeItemDesc": {
+      "elementType": "text",
+      "value": "{{codeitemmaclinuxcodeItemDesc}}"
+    },
+    "codeItemFormattedText": {
+      "elementType": "text",
+      "value": "{{codeitemmaclinuxcodeItemFormattedText}}"
+    }
+  },
+  "type": "code-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "code-item-mac-linux"
+}

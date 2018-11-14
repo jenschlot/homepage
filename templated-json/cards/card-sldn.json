@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "cardDesc": {
+      "elementType": "text",
+      "value": "{{cardsldncardDesc}}"
+    },
+    "cardLink": {
+      "elementType": "link",
+      "linkURL": "https://softlayer.github.io/",
+      "linkText": "{{cardsldncardLink}}"
+    },
+    "cardsIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/Softlayer_API.svg"
+    }
+  },
+  "type": "cards",
+  "tags": [
+    "prod",
+    "staging"
+  ],
+  "name": "card-sldn"
+}

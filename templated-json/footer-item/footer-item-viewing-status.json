@@ -1,0 +1,15 @@
+{
+  "elements": {
+    "footerItemLink": {
+      "elementType": "link",
+      "linkURL": "get-support/ViewStatus.html",
+      "linkText": "{{footeritemviewingstatusfooterItemLink}}"
+    }
+  },
+  "type": "footer-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-item-viewing-status"
+}

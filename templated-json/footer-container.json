@@ -1,0 +1,18 @@
+{
+  "elements": {
+    "footerList": {
+      "type": "reference",
+      "values": [
+        "footer-list-resources.json",
+        "footer-list-learn.json",
+        "footer-list-get-support.json"
+      ]
+    }
+  },
+  "type": "footer-container",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "footer-container"
+}

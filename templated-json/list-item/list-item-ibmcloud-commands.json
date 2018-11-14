@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "listItemLink": {
+      "elementType": "link",
+      "linkURL": "cli/reference/bluemix_cli/bx_cli.html",
+      "linkText": "{{listitemibmcloudcommandslistItemLink}}"
+    },
+    "linkIcon": {
+      "elementType": "image",
+      "url": "h/docs-content/images/Docs-icon.svg"
+    }
+  },
+  "type": "list-item",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "list-item-ibmcloud-commands"
+}

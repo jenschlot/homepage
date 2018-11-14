@@ -1,0 +1,19 @@
+{
+  "elements": {
+    "whatsNewLink": {
+      "elementType": "link",
+      "linkURL": "overview/whats-new/index.html",
+      "linkText": "{{whatsnewwhatsNewLink}}"
+    },
+    "whatsNewIcon": {
+      "elementType": "image",
+      "url": "/docs-content/images/whats_new.svg"
+    }
+  },
+  "type": "whats-new",
+  "tags": [
+    "staging",
+    "prod"
+  ],
+  "name": "whats-new"
+}
