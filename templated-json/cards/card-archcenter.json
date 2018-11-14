@@ -16,7 +16,8 @@
   },
   "type": "cards",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "card-archcenter"
 }

@@ -12,7 +12,8 @@
   },
   "type": "tiles",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "tiles-sysadminquickstart"
 }

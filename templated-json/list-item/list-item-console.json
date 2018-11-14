@@ -12,7 +12,8 @@
   },
   "type": "list-item",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "list-item-console"
 }

@@ -22,7 +22,8 @@
   },
   "type": "section-card",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "section-card-learn"
 }
