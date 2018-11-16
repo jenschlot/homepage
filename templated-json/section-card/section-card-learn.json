@@ -11,12 +11,12 @@
     "sectionCards": {
       "type": "reference",
       "values": [
-        "card-solutions-tutorials.json",
-        "card-archcenter.json",
-        "card-garagemethod.json",
-        "card-ibmdeveloper.json",
-        "card-skillsgateway.json",
-        "card-programming-guide.json"
+        "/cards/card-solutions-tutorials.json",
+        "/cards/card-archcenter.json",
+        "/cards/card-garagemethod.json",
+        "/cards/card-ibmdeveloper.json",
+        "/cards/card-skillsgateway.json",
+        "/cards/card-programming-guide.json"
       ]
     }
   },

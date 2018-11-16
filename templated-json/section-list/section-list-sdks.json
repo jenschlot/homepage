@@ -10,15 +10,15 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-sdks.json"
+      "value": "/section-link/section-link-tell-me-more-sdks.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-console-sdk.json",
-        "list-item-cli-sdk.json",
-        "list-item-console-accessibility.json",
-        "list-item-control-provision.json"
+        "/list-item/list-item-console-sdk.json",
+        "/list-item/list-item-cli-sdk.json",
+        "/list-item/list-item-console-accessibility.json",
+        "/list-item/list-item-control-provision.json"
       ]
     }
   },

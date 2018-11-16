@@ -7,8 +7,8 @@
     "codeItems": {
       "type": "reference",
       "values": [
-        "code-item-mac-linux.json",
-        "code-item-windows.json"
+        "/code-item/code-item-mac-linux.json",
+        "/code-item/code-item-windows.json"
       ]
     }
   },

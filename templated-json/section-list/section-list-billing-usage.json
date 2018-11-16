@@ -10,16 +10,16 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-billing-usage.json"
+      "value": "/section-link/section-link-tell-me-more-billing-usage.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-calculate-costs.json",
-        "list-item-consolidated-billing.json",
-        "list-item-viewing-usage.json",
-        "list-item-notifications.json",
-        "list-item-billing-faqs.json"
+        "/list-item/list-item-calculate-costs.json",
+        "/list-item/list-item-consolidated-billing.json",
+        "/list-item/list-item-viewing-usage.json",
+        "/list-item/list-item-notifications.json",
+        "/list-item/list-item-billing-faqs.json"
       ]
     }
   },

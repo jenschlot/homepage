@@ -7,9 +7,9 @@
     "sections": {
       "type": "reference",
       "values": [
-        "section-tile-languages.json",
-        "section-list-compute.json",
-        "section-card-apis-sdks.json"
+        "/section-tile/section-tile-languages.json",
+        "/section-list/section-list-compute.json",
+        "/section-card/section-card-apis-sdks.json"
       ]
     }
   },

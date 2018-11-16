@@ -2,17 +2,17 @@
   "elements": {
     "homepageContainerWhatsNew": {
       "type": "reference",
-      "value": "whats-new.json"
+      "value": "/whats-new/whats-new.json"
     },
     "homepageContainerTab": {
       "type": "reference",
       "values": [
-        "tab-get-start.json",
-        "tab-build.json",
-        "tab-manage.json",
-        "tab-tools.json",
-        "tab-dev-guide.json",
-        "tab-all-docs.json"
+        "/tabs/tab-get-start.json",
+        "/tabs/tab-build.json",
+        "/tabs/tab-manage.json",
+        "/tabs/tab-tools.json",
+        "/tabs/tab-dev-guide.json",
+        "/tabs/tab-all-docs.json"
       ]
     },
     "Title": {

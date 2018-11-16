@@ -3,9 +3,9 @@
     "footerList": {
       "type": "reference",
       "values": [
-        "footer-list-resources.json",
-        "footer-list-learn.json",
-        "footer-list-get-support.json"
+        "/footer-list/footer-list-resources.json",
+        "/footer-list/footer-list-learn.json",
+        "/footer-list/footer-list-get-support.json"
       ]
     }
   },

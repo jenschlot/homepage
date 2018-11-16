@@ -11,11 +11,11 @@
     "sectionTileTiles": {
       "type": "reference",
       "values": [
-        "tiles-devquickstart.json",
-        "tiles-sysadminquickstart.json",
-        "tiles-entarchquickstart.json",
-        "tiles-litequickstart.json",
-        "tiles-accountquickstart.json"
+        "/tiles/tiles-devquickstart.json",
+        "/tiles/tiles-sysadminquickstart.json",
+        "/tiles/tiles-entarchquickstart.json",
+        "/tiles/tiles-litequickstart.json",
+        "/tiles/tiles-accountquickstart.json"
       ]
     }
   },

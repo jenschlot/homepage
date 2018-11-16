@@ -10,14 +10,14 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-pipeline.json"
+      "value": "/section-link/section-link-tell-me-more-pipeline.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-checklist.json",
-        "list-item-deploy-schedule.json",
-        "list-item-pager-duty.json"
+        "/list-item/list-item-checklist.json",
+        "/list-item/list-item-deploy-schedule.json",
+        "/list-item/list-item-pager-duty.json"
       ]
     }
   },

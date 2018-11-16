@@ -7,9 +7,9 @@
     "sections": {
       "type": "reference",
       "values": [
-        "section-code-cli.json",
-        "section-list-cli-reference.json",
-        "section-list-developer-tools.json"
+        "/section-code/section-code-cli.json",
+        "/section-list/section-list-cli-reference.json",
+        "/section-list/section-list-developer-tools.json"
       ]
     }
   },

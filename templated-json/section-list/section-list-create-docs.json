@@ -10,19 +10,19 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-docs.json"
+      "value": "/section-link/section-link-tell-me-more-docs.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-writing.json",
-        "list-item-code-nav.json",
-        "list-item-markdown.json",
-        "list-item-translation.json",
-        "list-item-builds.json",
-        "list-item-accessibility.json",
-        "list-item-api-docs.json",
-        "list-item-analytics.json"
+        "/list-item/list-item-writing.json",
+        "/list-item/list-item-code-nav.json",
+        "/list-item/list-item-markdown.json",
+        "/list-item/list-item-translation.json",
+        "/list-item/list-item-builds.json",
+        "/list-item/list-item-accessibility.json",
+        "/list-item/list-item-api-docs.json",
+        "/list-item/list-item-analytics.json"
       ]
     }
   },

@@ -10,17 +10,17 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-finance.json"
+      "value": "/section-link/section-link-tell-me-more-finance.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-internal-paas-costs.json",
-        "list-item-internal-iaas-costs.json",
-        "list-item-internal-chargeback-faqs.json",
-        "list-item-brand-account.json",
-        "list-item-manage-brand-account.json",
-        "list-item-brand-faqs.json"
+        "/list-item/list-item-internal-paas-costs.json",
+        "/list-item/list-item-internal-iaas-costs.json",
+        "/list-item/list-item-internal-chargeback-faqs.json",
+        "/list-item/list-item-brand-account.json",
+        "/list-item/list-item-manage-brand-account.json",
+        "/list-item/list-item-brand-faqs.json"
       ]
     }
   },

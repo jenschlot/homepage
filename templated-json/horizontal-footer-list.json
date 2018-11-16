@@ -3,11 +3,11 @@
     "horizontalFooterItems": {
       "type": "reference",
       "values": [
-        "horizontal-footer-privacy.json",
-        "horizontal-footer-terms.json",
-        "horizontal-footer-accessibility.json",
-        "horizontal-footer-glossary.json",
-        "horizontal-footer-feedback.json"
+        "/horizontal-footer-item/horizontal-footer-privacy.json",
+        "/horizontal-footer-item/horizontal-footer-terms.json",
+        "/horizontal-footer-item/horizontal-footer-accessibility.json",
+        "/horizontal-footer-item/horizontal-footer-glossary.json",
+        "/horizontal-footer-item/horizontal-footer-feedback.json"
       ]
     }
   },

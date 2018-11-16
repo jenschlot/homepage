@@ -7,11 +7,11 @@
     "footerListItem": {
       "type": "reference",
       "values": [
-        "footer-item-services-by-region.json",
-        "footer-item-prereqs.json",
-        "footer-item-crn.json",
-        "footer-item-security.json",
-        "footer-item-nls-support.json"
+        "/footer-item/footer-item-services-by-region.json",
+        "/footer-item/footer-item-prereqs.json",
+        "/footer-item/footer-item-crn.json",
+        "/footer-item/footer-item-security.json",
+        "/footer-item/footer-item-nls-support.json"
       ]
     }
   },

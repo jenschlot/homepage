@@ -11,8 +11,8 @@
     "sectionCards": {
       "type": "reference",
       "values": [
-        "card-starter-kit-tutorials.json",
-        "card-solutions-tutorials.json"
+        "/cards/card-starter-kit-tutorials.json",
+        "/cards/card-solutions-tutorials.json"
       ]
     }
   },

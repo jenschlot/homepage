@@ -3,9 +3,9 @@
     "sectionCards": {
       "type": "reference",
       "values": [
-        "video-welcome.json",
-        "video-developer.json",
-        "video-rent-buy.json"
+        "/videos/video-welcome.json",
+        "/videos/video-developer.json",
+        "/videos/video-rent-buy.json"
       ]
     }
   },

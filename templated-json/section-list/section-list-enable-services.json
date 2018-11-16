@@ -11,9 +11,9 @@
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-kub.json",
-        "list-item-key-protect.json",
-        "list-item-kube-usage.json"
+        "/list-item/list-item-kub.json",
+        "/list-item/list-item-key-protect.json",
+        "/list-item/list-item-kube-usage.json"
       ]
     }
   },

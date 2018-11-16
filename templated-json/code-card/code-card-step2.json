@@ -7,7 +7,7 @@
     "codeItems": {
       "type": "reference",
       "values": [
-        "code-item-verify-install.json"
+        "/code-item/code-item-verify-install.json"
       ]
     }
   },

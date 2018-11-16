@@ -11,10 +11,10 @@
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-byocusecase.json",
-        "list-item-scratchusecase.json",
-        "list-item-outsideusecase.json",
-        "list-item-migrateusecase.json"
+        "/list-item/list-item-byocusecase.json",
+        "/list-item/list-item-scratchusecase.json",
+        "/list-item/list-item-outsideusecase.json",
+        "/list-item/list-item-migrateusecase.json"
       ]
     }
   },

@@ -11,11 +11,11 @@
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-cli-plugins.json",
-        "list-item-idt-using.json",
-        "list-item-local-app-debug.json",
-        "list-item-idt-vsc.json",
-        "list-item-jetbrains.json"
+        "/list-item/list-item-cli-plugins.json",
+        "/list-item/list-item-idt-using.json",
+        "/list-item/list-item-local-app-debug.json",
+        "/list-item/list-item-idt-vsc.json",
+        "/list-item/list-item-jetbrains.json"
       ]
     }
   },

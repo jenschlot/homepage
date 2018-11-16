@@ -11,16 +11,16 @@
     "sectionTileTiles": {
       "type": "reference",
       "values": [
-        "tiles-tomcat.json",
-        "tiles-liberty.json",
-        "tiles-js.json",
-        "tiles-net.json",
-        "tiles-swift.json",
-        "tiles-xsp.json",
-        "tiles-go.json",
-        "tiles-php.json",
-        "tiles-py.json",
-        "tiles-rb.json"
+        "/tiles/tiles-tomcat.json",
+        "/tiles/tiles-liberty.json",
+        "/tiles/tiles-js.json",
+        "/tiles/tiles-net.json",
+        "/tiles/tiles-swift.json",
+        "/tiles/tiles-xsp.json",
+        "/tiles/tiles-go.json",
+        "/tiles/tiles-php.json",
+        "/tiles/tiles-py.json",
+        "/tiles/tiles-rb.json"
       ]
     }
   },

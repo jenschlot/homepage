@@ -7,12 +7,12 @@
     "sections": {
       "type": "reference",
       "values": [
-        "section-list-offering-setup.json",
-        "section-list-create-docs.json",
-        "section-list-sdks.json",
-        "section-list-pipeline.json",
-        "section-list-finance-accounting.json",
-        "section-list-enable-services.json"
+        "/section-list/section-list-offering-setup.json",
+        "/section-list/section-list-create-docs.json",
+        "/section-list/section-list-sdks.json",
+        "/section-list/section-list-pipeline.json",
+        "/section-list/section-list-finance-accounting.json",
+        "/section-list/section-list-enable-services.json"
       ]
     }
   },

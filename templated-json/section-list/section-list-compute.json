@@ -10,17 +10,17 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-compute.json"
+      "value": "/section-link/section-link-tell-me-more-compute.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-bare-metal.json",
-        "list-item-kubernetes.json",
-        "list-item-cf.json",
-        "list-item-vmware.json",
-        "list-item-cloud-functions.json",
-        "list-item-virtual-server.json"
+        "/list-item/list-item-bare-metal.json",
+        "/list-item/list-item-kubernetes.json",
+        "/list-item/list-item-cf.json",
+        "/list-item/list-item-vmware.json",
+        "/list-item/list-item-cloud-functions.json",
+        "/list-item/list-item-virtual-server.json"
       ]
     }
   },

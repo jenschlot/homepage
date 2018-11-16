@@ -10,19 +10,19 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-iam.json"
+      "value": "/section-link/section-link-tell-me-more-iam.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-getting-started-iam.json",
-        "list-item-roles-permissions.json",
-        "list-item-mfa.json",
-        "list-item-api-keys.json",
-        "list-item-invite-users.json",
-        "list-item-service-ids.json",
-        "list-item-iam-faq.json",
-        "list-item-bps-iam.json"
+        "/list-item/list-item-getting-started-iam.json",
+        "/list-item/list-item-roles-permissions.json",
+        "/list-item/list-item-mfa.json",
+        "/list-item/list-item-api-keys.json",
+        "/list-item/list-item-invite-users.json",
+        "/list-item/list-item-service-ids.json",
+        "/list-item/list-item-iam-faq.json",
+        "/list-item/list-item-bps-iam.json"
       ]
     }
   },

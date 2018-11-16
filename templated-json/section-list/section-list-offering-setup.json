@@ -10,19 +10,19 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-dev-guide.json"
+      "value": "/section-link/section-link-tell-me-more-dev-guide.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-new-service.json",
-        "list-item-migrate-service.json",
-        "list-item-internal-account.json",
-        "list-item-resource-controller.json",
-        "list-item-iam.json",
-        "list-item-ghost.json",
-        "list-item-resource-catalog.json",
-        "list-item-metering.json"
+        "/list-item/list-item-new-service.json",
+        "/list-item/list-item-migrate-service.json",
+        "/list-item/list-item-internal-account.json",
+        "/list-item/list-item-resource-controller.json",
+        "/list-item/list-item-iam.json",
+        "/list-item/list-item-ghost.json",
+        "/list-item/list-item-resource-catalog.json",
+        "/list-item/list-item-metering.json"
       ]
     }
   },

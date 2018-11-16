@@ -11,14 +11,14 @@
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-ibm-cloud.json",
-        "list-item-create-apps.json",
-        "list-item-console.json",
-        "list-item-working-with-resources.json",
-        "list-item-dev-journey.json",
-        "list-item-customer-portal.json",
-        "list-item-it-ops-journey.json",
-        "list-item-third-party.json"
+        "/list-item/list-item-ibm-cloud.json",
+        "/list-item/list-item-create-apps.json",
+        "/list-item/list-item-console.json",
+        "/list-item/list-item-working-with-resources.json",
+        "/list-item/list-item-dev-journey.json",
+        "/list-item/list-item-customer-portal.json",
+        "/list-item/list-item-it-ops-journey.json",
+        "/list-item/list-item-third-party.json"
       ]
     }
   },

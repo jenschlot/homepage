@@ -7,11 +7,11 @@
     "sections": {
       "type": "reference",
       "values": [
-        "section-video-get-start.json",
-        "section-list-get-start.json",
-        "section-tile-quick-start.json",
-        "section-list-use-case.json",
-        "section-card-learn.json"
+        "/section-video/section-video-get-start.json",
+        "/section-list/section-list-get-start.json",
+        "/section-tile/section-tile-quick-start.json",
+        "/section-list/section-list-use-case.json",
+        "/section-card/section-card-learn.json"
       ]
     }
   },

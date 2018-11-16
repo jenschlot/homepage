@@ -11,11 +11,11 @@
     "sectionCards": {
       "type": "reference",
       "values": [
-        "card-api-docs.json",
-        "managing-apis.json",
-        "card-sldn.json",
-        "card-sdk-mobile.json",
-        "card-sdk-watson.json"
+        "/cards/card-api-docs.json",
+        "/cards/managing-apis.json",
+        "/cards/card-sldn.json",
+        "/cards/card-sdk-mobile.json",
+        "/cards/card-sdk-watson.json"
       ]
     }
   },

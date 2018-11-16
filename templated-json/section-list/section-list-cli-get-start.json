@@ -10,13 +10,13 @@
     },
     "sectionListLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-cli-get-start.json"
+      "value": "/section-link/section-link-tell-me-more-cli-get-start.json"
     },
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-cli-get-start.json",
-        "list-item-extend-cli.json"
+        "/list-item/list-item-cli-get-start.json",
+        "/list-item/list-item-extend-cli.json"
       ]
     }
   },

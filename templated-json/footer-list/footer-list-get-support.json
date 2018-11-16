@@ -7,11 +7,11 @@
     "footerListItem": {
       "type": "reference",
       "values": [
-        "footer-item-support-plans.json",
-        "footer-item-viewing-status.json",
-        "footer-item-manage-tickets.json",
-        "footer-item-dw-answers.json",
-        "footer-item-faq-library.json"
+        "/footer-item/footer-item-support-plans.json",
+        "/footer-item/footer-item-viewing-status.json",
+        "/footer-item/footer-item-manage-tickets.json",
+        "/footer-item/footer-item-dw-answers.json",
+        "/footer-item/footer-item-faq-library.json"
       ]
     }
   },

@@ -7,9 +7,9 @@
     "sections": {
       "type": "reference",
       "values": [
-        "section-list-manage-iam.json",
-        "section-list-accounts.json",
-        "section-list-billing-usage.json"
+        "/section-list/section-list-manage-iam.json",
+        "/section-list/section-list-accounts.json",
+        "/section-list/section-list-billing-usage.json"
       ]
     }
   },

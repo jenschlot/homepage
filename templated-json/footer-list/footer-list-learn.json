@@ -7,9 +7,9 @@
     "footerListItem": {
       "type": "reference",
       "values": [
-        "footer-item-blog.json",
-        "footer-item-ibm-cloud.json",
-        "footer-item-case-studies.json"
+        "/footer-item/footer-item-blog.json",
+        "/footer-item/footer-item-ibm-cloud.json",
+        "/footer-item/footer-item-case-studies.json"
       ]
     }
   },

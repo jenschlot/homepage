@@ -11,14 +11,14 @@
     "sectionListItems": {
       "type": "reference",
       "values": [
-        "list-item-cloud-cmd-reference.json",
-        "list-item-idt-cmd-reference.json",
-        "list-item-container-registry.json",
-        "list-item-sl-cmd-reference.json",
-        "list-item-wsk-cmd-reference.json",
-        "list-item-kube-cmd-reference.json",
-        "list-item-machine-learning-cmd-reference.json",
-        "list-item-cis-cmd-reference.json"
+        "/list-item/list-item-cloud-cmd-reference.json",
+        "/list-item/list-item-idt-cmd-reference.json",
+        "/list-item/list-item-container-registry.json",
+        "/list-item/list-item-sl-cmd-reference.json",
+        "/list-item/list-item-wsk-cmd-reference.json",
+        "/list-item/list-item-kube-cmd-reference.json",
+        "/list-item/list-item-machine-learning-cmd-reference.json",
+        "/list-item/list-item-cis-cmd-reference.json"
       ]
     }
   },

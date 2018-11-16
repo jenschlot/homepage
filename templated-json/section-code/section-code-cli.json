@@ -10,13 +10,13 @@
     },
     "sectionCodeLink": {
       "type": "reference",
-      "value": "section-link-tell-me-more-cli-get-start.json"
+      "value": "/section-link/section-link-tell-me-more-cli-get-start.json"
     },
     "codeCards": {
       "type": "reference",
       "values": [
-        "code-card-step1.json",
-        "code-card-step2.json"
+        "/code-card/code-card-step1.json",
+        "/code-card/code-card-step2.json"
       ]
     }
   },
