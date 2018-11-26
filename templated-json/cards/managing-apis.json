@@ -17,7 +17,7 @@
   "type": "cards",
   "tags": [
     "prod",
-    "staging"
+    "test"
   ],
   "name": "managing-apis"
 }

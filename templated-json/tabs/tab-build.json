@@ -16,7 +16,7 @@
   "type": "tab-menu-container",
   "tags": [
     "prod",
-    "staging"
+    "test"
   ],
   "name": "tab-build"
 }

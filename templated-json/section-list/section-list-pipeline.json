@@ -23,7 +23,7 @@
   },
   "type": "section-list",
   "tags": [
-    "staging"
+    "test"
   ],
   "name": "section-list-pipeline"
 }

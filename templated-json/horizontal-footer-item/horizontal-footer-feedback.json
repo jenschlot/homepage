@@ -8,7 +8,7 @@
   },
   "type": "horizontal-footer-item",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "horizontal-footer-feedback"

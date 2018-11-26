@@ -26,7 +26,7 @@
   },
   "type": "section-tile",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-tile-languages"

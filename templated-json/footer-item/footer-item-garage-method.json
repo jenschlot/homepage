@@ -8,7 +8,7 @@
   },
   "type": "footer-item",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "footer-item-garage-method"

@@ -20,7 +20,7 @@
   },
   "type": "section-list",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-tile-usecase"

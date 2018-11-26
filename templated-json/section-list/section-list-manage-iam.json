@@ -28,7 +28,7 @@
   },
   "type": "section-list",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-list-manage-iam"

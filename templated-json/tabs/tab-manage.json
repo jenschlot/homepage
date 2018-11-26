@@ -15,7 +15,7 @@
   },
   "type": "tab-menu-container",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "tab-manage"

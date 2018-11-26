@@ -17,7 +17,7 @@
   },
   "type": "tab-menu-container",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "tab-get-start"

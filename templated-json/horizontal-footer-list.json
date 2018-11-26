@@ -13,7 +13,7 @@
   },
   "type": "horizontal-footer-list",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "horizontal-footer-list"

@@ -11,7 +11,7 @@
   },
   "type": "footer-container",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "footer-container"

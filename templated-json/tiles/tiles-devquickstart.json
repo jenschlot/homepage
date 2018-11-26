@@ -12,7 +12,7 @@
   },
   "type": "tiles",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "tiles-devquickstart"

@@ -12,7 +12,7 @@
   },
   "type": "whats-new",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "whats-new"

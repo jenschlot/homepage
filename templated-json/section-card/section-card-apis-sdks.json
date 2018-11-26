@@ -21,7 +21,7 @@
   },
   "type": "section-card",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-card-apis-sdks"

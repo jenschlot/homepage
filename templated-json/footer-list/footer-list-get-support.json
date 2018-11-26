@@ -17,7 +17,7 @@
   },
   "type": "footer-list",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "footer-list-get-support"

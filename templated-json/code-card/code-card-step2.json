@@ -13,7 +13,7 @@
   },
   "type": "code-card",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "code-card-step2"

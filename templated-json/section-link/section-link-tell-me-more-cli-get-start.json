@@ -12,7 +12,7 @@
   },
   "type": "section-link",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-link-tell-me-more-cli-get-start"

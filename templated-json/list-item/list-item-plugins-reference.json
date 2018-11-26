@@ -12,7 +12,7 @@
   },
   "type": "list-item",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "list-item-plugins-reference"

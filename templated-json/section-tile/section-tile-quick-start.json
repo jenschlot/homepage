@@ -21,7 +21,7 @@
   },
   "type": "section-tile",
   "tags": [
-    "staging"
+    "test"
   ],
   "name": "section-tile-quickstart"
 }

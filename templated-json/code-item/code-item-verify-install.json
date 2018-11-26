@@ -11,7 +11,7 @@
   },
   "type": "code-item",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "code-item-verify-install"

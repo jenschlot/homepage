@@ -22,7 +22,7 @@
   },
   "type": "section-code",
   "tags": [
-    "staging",
+    "test",
     "prod"
   ],
   "name": "section-code-cli"
