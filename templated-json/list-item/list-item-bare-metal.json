@@ -7,7 +7,7 @@
     },
     "linkIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/bare-metal.png"
+      "url": "/docs-content/v1/content/homepage/images/bare-metal.png"
     }
   },
   "type": "list-item",

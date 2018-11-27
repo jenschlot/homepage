@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/WhatIsBluemix-icon.svg"
+      "url": "/docs-content/v1/content/homepage/images/WhatIsBluemix-icon.svg"
     }
   },
   "type": "cards",

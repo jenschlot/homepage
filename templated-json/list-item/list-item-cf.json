@@ -7,7 +7,7 @@
     },
     "linkIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/cloud-foundry.svg"
+      "url": "/docs-content/v1/content/homepage/images/cloud-foundry.svg"
     }
   },
   "type": "list-item",

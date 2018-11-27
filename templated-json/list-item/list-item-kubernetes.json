@@ -7,7 +7,7 @@
     },
     "linkIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/container-service-logo.svg"
+      "url": "/docs-content/v1/content/homepage/images/container-service-logo.svg"
     }
   },
   "type": "list-item",

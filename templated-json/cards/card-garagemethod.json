@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/garage.svg"
+      "url": "/docs-content/v1/content/homepage/images/garage.svg"
     }
   },
   "type": "cards",
