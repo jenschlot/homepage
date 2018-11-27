@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/ibm-developer.svg"
+      "url": "/docs-content/v1/content/homepage/images/ibm-developer.svg"
     }
   },
   "type": "cards",

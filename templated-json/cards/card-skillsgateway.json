@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/skills-gateway.svg"
+      "url": "/docs-content/v1/content/homepage/images/skills-gateway.svg"
     }
   },
   "type": "cards",

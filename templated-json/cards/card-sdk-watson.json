@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/watson-sdks.svg"
+      "url": "/docs-content/v1/content/homepage/images/watson-sdks.svg"
     }
   },
   "type": "cards",

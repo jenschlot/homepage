@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/SDKs_mobile.svg"
+      "url": "/docs-content/v1/content/homepage/images/SDKs_mobile.svg"
     }
   },
   "type": "cards",

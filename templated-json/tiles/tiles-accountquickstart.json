@@ -7,7 +7,7 @@
     },
     "tileIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/account-admin.svg"
+      "url": "/docs-content/v1/content/homepage/images/account-admin.svg"
     }
   },
   "type": "tiles",

@@ -7,7 +7,7 @@
     },
     "whatsNewIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/whats_new.svg"
+      "url": "/docs-content/v1/content/homepage/images/whats_new.svg"
     }
   },
   "type": "whats-new",

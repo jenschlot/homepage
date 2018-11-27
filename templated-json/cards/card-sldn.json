@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/Softlayer_API.svg"
+      "url": "/docs-content/v1/content/homepage/images/Softlayer_API.svg"
     }
   },
   "type": "cards",

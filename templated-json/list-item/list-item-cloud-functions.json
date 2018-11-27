@@ -7,7 +7,7 @@
     },
     "linkIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/whisk.svg"
+      "url": "/docs-content/v1/content/homepage/images/whisk.svg"
     }
   },
   "type": "list-item",
