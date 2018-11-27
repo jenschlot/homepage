@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/architecture-center.svg"
+      "url": "/docs-content/v1/content/homepage/images/architecture-center.svg"
     }
   },
   "type": "cards",

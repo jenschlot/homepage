@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/cloud-programming-guide.svg"
+      "url": "/docs-content/v1/content/homepage/images/cloud-programming-guide.svg"
     }
   },
   "type": "cards",

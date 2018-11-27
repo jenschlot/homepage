@@ -11,7 +11,7 @@
     },
     "cardsIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/solution_tutorials.svg"
+      "url": "/docs-content/v1/content/homepage/images/solution_tutorials.svg"
     }
   },
   "type": "cards",

@@ -7,7 +7,7 @@
     },
     "sectionLinkIcon": {
       "elementType": "image",
-      "url": "/docs-content/images/right-arrow.svg"
+      "url": "/docs-content/v1/content/homepage/images/right-arrow.svg"
     }
   },
   "type": "section-link",
