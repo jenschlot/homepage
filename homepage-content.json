@@ -85,7 +85,7 @@
   "sectionlinktellmemoreiamsectionlinklabel": "Tell me more",
   "listitemgettingstartediamlistItemLink": "Getting started with IBM Cloud IAM",
   "listitemrolespermissionslistItemLink": "User roles and permissions",
-  "listitemmfalistItemLink": "Enabling multi-factor authentication",
+  "listitemmfalistItemLink": "Requiring MFA for users in your account",
   "listitemapikeyslistItemLink": "Working with API keys",
   "listiteminviteuserslistItemLink": "Inviting users and assigning access",
   "listitemserviceidslistItemLink": "Creating and managing service IDs",
