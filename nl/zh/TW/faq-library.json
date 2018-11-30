@@ -1,0 +1,53 @@
+{
+  "id": "faq-library",
+  "title": "常見問題",
+  "searchHint": "搜尋常見問題 (FAQ)",
+  "clearAll": "全部清除",
+  "help":
+  {
+    "id": "helpBox",
+    "name": "需要更多協助嗎？",
+    "items":[{
+      "id": "docs",
+      "name": "瀏覽文件",
+      "img": "/docs-content/images/docs.svg",
+      "href": "/docs"
+    }, {
+      "id": "community",
+      "name": "IBM Developer 社群",
+      "img": "/docs-content/images/bee.svg",
+      "href": "https://developer.ibm.com"
+    }, {
+      "id": "support",
+      "name": "造訪支援中心",
+      "img": "/docs-content/images/support.svg",
+      "href": "/unifiedsupport/supportcenter"
+    }]
+  },
+  "categories":
+  [
+    {
+      "id": "platform",
+      "name": "平台"
+    }, {
+      "id": "products",
+      "name": "產品"
+      }],
+  "items": [{
+    "id": "account",
+    "title": "帳戶"
+    }, {
+      "id": "billing-usage",
+      "title": "計費及用量"
+    }, {
+    "id": "customer-portal",
+    "title": "客戶入口網站"
+    }, {
+    "id": "iam",
+    "title": "Identity and Access Management"
+    }, {
+    "id": "resources",
+    "title": "資源"
+    }]
+}
+
