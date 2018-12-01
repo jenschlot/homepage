@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "cli/machine-learning-cli-plugin/machine-learning-cli.html",
+      "linkURL": "machine-learning-cli-plugin/machine-learning-cli.html",
       "linkText": "{{listitemmlcmdreferencelistItemLink}}"
     },
     "linkIcon": {

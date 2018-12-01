@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "cli/container-service-cli-plugin/kubernetes-service-cli.html",
+      "linkURL": "container-service-cli-plugin/kubernetes-service-cli.html",
       "linkText": "{{listitemkubecmdreferencelistItemLink}}"
     },
     "linkIcon": {

@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "services/Registry/registry_cli.html",
+      "linkURL": "container-registry-cli-plugin/container-registry-cli.html",
       "linkText": "{{listitemcontainerregistrylistItemLink}}"
     },
     "linkIcon": {

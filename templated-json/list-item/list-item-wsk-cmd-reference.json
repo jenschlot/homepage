@@ -2,7 +2,7 @@
   "elements": {
     "listItemLink": {
       "elementType": "link",
-      "linkURL": "openwhisk/bluemix_cli.html",
+      "linkURL": "cloud-functions-cli-plugin/functions-cli.html",
       "linkText": "{{listitemwskcmdreferencelistItemLink}}"
     },
     "linkIcon": {
