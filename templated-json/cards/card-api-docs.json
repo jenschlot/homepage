@@ -6,7 +6,7 @@
     },
     "cardLink": {
       "elementType": "link",
-      "linkURL": "https://console.cloud.ibm.com/apidocs",
+      "linkURL": "https://cloud.ibm.com/apidocs",
       "linkText": "{{cardapidocscardLink}}"
     },
     "cardsIcon": {
