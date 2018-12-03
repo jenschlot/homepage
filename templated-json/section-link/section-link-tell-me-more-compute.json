@@ -2,7 +2,7 @@
   "elements": {
     "sectionlinklabel": {
       "elementType": "link",
-      "linkURL": "overview/ibm-cloud-platform.html#choosing-your-hosting-environment",
+      "linkURL": "overview/ibm-cloud-platform.html#choose-compute",
       "linkText": "{{sectionlinktellmemorecomputesectionlinklabel}}"
     },
     "sectionLinkIcon": {
