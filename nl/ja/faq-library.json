@@ -10,17 +10,17 @@
     "items":[{
       "id": "docs",
       "name": "資料の参照",
-      "img": "/docs-content/images/docs.svg",
+      "img": "/docs-content/v1/content/homepage/images/docs.svg",
       "href": "/docs"
     }, {
       "id": "community",
       "name": "IBM Developer コミュニティー",
-      "img": "/docs-content/images/bee.svg",
+      "img": "/docs-content/v1/content/homepage/images/bee.svg",
       "href": "https://developer.ibm.com"
     }, {
       "id": "support",
       "name": "サポート・センターへのアクセス",
-      "img": "/docs-content/images/support.svg",
+      "img": "/docs-content/v1/content/homepage/images/support.svg",
       "href": "/unifiedsupport/supportcenter"
     }]
   },
@@ -44,7 +44,7 @@
     "title": "カスタマー・ポータル"
     }, {
     "id": "iam",
-    "title": "ID およびアクセス管理"
+    "title": "Identity and Access Management"
     }, {
     "id": "resources",
     "title": "リソース"

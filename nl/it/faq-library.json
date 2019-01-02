@@ -1,25 +1,25 @@
 {
   "id": "faq-library",
-  "title": "Perguntas Mais Frequentes",
-  "searchHint": "FAQs de procura",
-  "clearAll": "Limpar todos",
+  "title": "Domande frequenti",
+  "searchHint": "Domande frequenti su Ricerca",
+  "clearAll": "Cancella tutto",
   "help":
   {
     "id": "helpBox",
-    "name": "Precisa de mais ajuda?",
+    "name": "Serve ancora aiuto?",
     "items":[{
       "id": "docs",
-      "name": "Navegue pela documentação",
+      "name": "Sfoglia documentazione",
       "img": "/docs-content/v1/content/homepage/images/docs.svg",
       "href": "/docs"
     }, {
-      "id": "comunidade",
-      "name": "Comunidade do IBM Developer",
+      "id": "community",
+      "name": "Community di sviluppatori IBM",
       "img": "/docs-content/v1/content/homepage/images/bee.svg",
       "href": "https://developer.ibm.com"
     }, {
-      "id": "suporte",
-      "name": "Visite o centro de suporte",
+      "id": "support",
+      "name": "Visita il centro di supporto",
       "img": "/docs-content/v1/content/homepage/images/support.svg",
       "href": "/unifiedsupport/supportcenter"
     }]
@@ -27,27 +27,27 @@
   "categories":
   [
     {
-      "id": "plataforma",
-      "name": "Plataforma"
+      "id": "platform",
+      "name": "Piattaforma"
     }, {
-      "id": "produtos",
-      "name": "Produtos"
+      "id": "products",
+      "name": "Prodotti"
       }],
   "items": [{
-    "id": "conta",
-    "title": "Conta"
+    "id": "account",
+    "title": "Account"
     }, {
       "id": "billing-usage",
-      "title": "Faturamento e uso"
+      "title": "Fatturazione e utilizzo"
     }, {
     "id": "customer-portal",
-    "title": "Portal do cliente"
+    "title": "Portale clienti"
     }, {
     "id": "iam",
     "title": "Identity and Access Management"
     }, {
-    "id": "recursos",
-    "title": "Resources"
+    "id": "resources",
+    "title": "Risorse"
     }]
 }
 
