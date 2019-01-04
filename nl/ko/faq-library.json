@@ -10,17 +10,17 @@
     "items":[{
       "id": "문서",
       "name": "문서 찾아보기",
-      "img": "/docs-content/images/docs.svg",
+      "img": "/docs-content/v1/content/homepage/images/docs.svg",
       "href": "/docs"
     }, {
       "id": "커뮤니티",
       "name": "IBM 개발자 커뮤니티",
-      "img": "/docs-content/images/bee.svg",
+      "img": "/docs-content/v1/content/homepage/images/bee.svg",
       "href": "https://developer.ibm.com"
     }, {
       "id": "지원",
       "name": "지원 센터 방문",
-      "img": "/docs-content/images/support.svg",
+      "img": "/docs-content/v1/content/homepage/images/support.svg",
       "href": "/unifiedsupport/supportcenter"
     }]
   },
