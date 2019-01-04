@@ -10,17 +10,17 @@
     "items":[{
       "id": "docs",
       "name": "浏览文档",
-      "img": "/docs-content/v1/content/homepage/images/docs.svg",
+      "img": "/docs-content/images/docs.svg",
       "href": "/docs"
     }, {
       "id": "community",
       "name": "IBM Developer 社区",
-      "img": "/docs-content/v1/content/homepage/images/bee.svg",
+      "img": "/docs-content/images/bee.svg",
       "href": "https://developer.ibm.com"
     }, {
       "id": "support",
       "name": "访问支持中心",
-      "img": "/docs-content/v1/content/homepage/images/support.svg",
+      "img": "/docs-content/images/support.svg",
       "href": "/unifiedsupport/supportcenter"
     }]
   },

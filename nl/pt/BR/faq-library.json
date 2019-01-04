@@ -10,17 +10,17 @@
     "items":[{
       "id": "docs",
       "name": "Navegue pela documentação",
-      "img": "/docs-content/v1/content/homepage/images/docs.svg",
+      "img": "/docs-content/images/docs.svg",
       "href": "/docs"
     }, {
       "id": "comunidade",
       "name": "Comunidade do IBM Developer",
-      "img": "/docs-content/v1/content/homepage/images/bee.svg",
+      "img": "/docs-content/images/bee.svg",
       "href": "https://developer.ibm.com"
     }, {
       "id": "suporte",
       "name": "Visite o centro de suporte",
-      "img": "/docs-content/v1/content/homepage/images/support.svg",
+      "img": "/docs-content/images/support.svg",
       "href": "/unifiedsupport/supportcenter"
     }]
   },

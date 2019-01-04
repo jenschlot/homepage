@@ -133,6 +133,7 @@
   "listitemslcmdreferencelistItemLink": "Infraestrutura do IBM Cloud (ibmcloud sl)",
   "listitemkubecmdreferencelistItemLink": "Serviço do Kubernetes (ibmcloud ks)",
   "listitemmlcmdreferencelistItemLink": "Aprendizado de máquina (ibmcloud ml)",
+  "listitemciscmdreferencelistItemLink": "Cloud Internet Services (ibmcloud cis)",
   "sectionlistdevelopertoolssectionListTitle": "Ferramentas do desenvolvedor",
   "sectionlistdevelopertoolssectionListDesc": "Acesse ferramentas para obter desenvolvimento e depuração mais rápidos.",
   "listitemclipluginslistItemLink": "Estendendo o IBM Cloud CLI com Plug-ins",
