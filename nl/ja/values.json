@@ -133,7 +133,6 @@
   "listitemslcmdreferencelistItemLink": "IBM Cloud インフラストラクチャー (ibmcloud sl)",
   "listitemkubecmdreferencelistItemLink": "Kubernetes サービス (ibmcloud ks)",
   "listitemmlcmdreferencelistItemLink": "機械学習 (ibmcloud ml)",
-  "listitemciscmdreferencelistItemLink": "クラウド・インターネット・サービス (ibmcloud cis)",
   "sectionlistdevelopertoolssectionListTitle": "開発者用ツール",
   "sectionlistdevelopertoolssectionListDesc": "より迅速に開発とデバッグを行うためのツールにアクセスします。",
   "listitemclipluginslistItemLink": "プラグインによる IBM Cloud CLI の拡張",
