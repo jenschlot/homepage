@@ -16,7 +16,8 @@
   },
   "type": "videos",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "video-developer"
 }
