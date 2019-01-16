@@ -11,7 +11,8 @@
   },
   "type": "section-video",
   "tags": [
-    "staging"
+    "staging",
+    "prod"
   ],
   "name": "section-video-get-start"
 }
